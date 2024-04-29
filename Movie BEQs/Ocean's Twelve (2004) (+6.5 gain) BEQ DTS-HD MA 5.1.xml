@@ -822,22 +822,31 @@
   <filter name="PEQ_1_3" addr="8290">
     <freq>36.0</freq>
     <q>0.9</q>
-    <boost>12.9</boost>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00099588461859,-1.9981884785280937,0.9972042493957297,1.99819298649468,-0.9981956260477337,</dec>
-    <hex>0x3f8020a2,0xbfffc4a4,0x3f7f48c7,0x3fffc4ca,0xbf7f89c0,</hex>
+    <dec>1.0006632071281607,-1.997957751555113,0.9973036956675447,1.9979606466310607,-0.9979640077197581,</dec>
+    <hex>0x3f8015bb,0xbfffbd14,0x3f7f4f4c,0x3fffbd2d,0xbf7f7a92,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>36.0</freq>
     <q>0.9</q>
-    <boost>12.9</boost>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00099588461859,-1.9981884785280937,0.9972042493957297,1.99819298649468,-0.9981956260477337,</dec>
-    <hex>0x3f8020a2,0xbfffc4a4,0x3f7f48c7,0x3fffc4ca,0xbf7f89c0,</hex>
+    <dec>1.0006632071281607,-1.997957751555113,0.9973036956675447,1.9979606466310607,-0.9979640077197581,</dec>
+    <hex>0x3f8015bb,0xbfffbd14,0x3f7f4f4c,0x3fffbd2d,0xbf7f7a92,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
+    <freq>36.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0006632071281607,-1.997957751555113,0.9973036956675447,1.9979606466310607,-0.9979640077197581,</dec>
+    <hex>0x3f8015bb,0xbfffbd14,0x3f7f4f4c,0x3fffbd2d,0xbf7f7a92,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
     <freq>54.0</freq>
     <q>0.6</q>
     <boost>1.4</boost>
@@ -845,15 +854,6 @@
     <bypass>0</bypass>
     <dec>1.0004739423548963,-1.9945678859190747,0.9941064009202241,1.9945678859190747,-0.9945803432751207,</dec>
     <hex>0x3f800f88,0xbfff4e00,0x3f7e7dc2,0x3fff4e00,0xbf7e9cd1,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -912,22 +912,31 @@
   <filter name="PEQ_2_3" addr="8340">
     <freq>36.0</freq>
     <q>0.9</q>
-    <boost>12.9</boost>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00099588461859,-1.9981884785280937,0.9972042493957297,1.99819298649468,-0.9981956260477337,</dec>
-    <hex>0x3f8020a2,0xbfffc4a4,0x3f7f48c7,0x3fffc4ca,0xbf7f89c0,</hex>
+    <dec>1.0006632071281607,-1.997957751555113,0.9973036956675447,1.9979606466310607,-0.9979640077197581,</dec>
+    <hex>0x3f8015bb,0xbfffbd14,0x3f7f4f4c,0x3fffbd2d,0xbf7f7a92,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>36.0</freq>
     <q>0.9</q>
-    <boost>12.9</boost>
+    <boost>8.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00099588461859,-1.9981884785280937,0.9972042493957297,1.99819298649468,-0.9981956260477337,</dec>
-    <hex>0x3f8020a2,0xbfffc4a4,0x3f7f48c7,0x3fffc4ca,0xbf7f89c0,</hex>
+    <dec>1.0006632071281607,-1.997957751555113,0.9973036956675447,1.9979606466310607,-0.9979640077197581,</dec>
+    <hex>0x3f8015bb,0xbfffbd14,0x3f7f4f4c,0x3fffbd2d,0xbf7f7a92,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
+    <freq>36.0</freq>
+    <q>0.9</q>
+    <boost>8.7</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0006632071281607,-1.997957751555113,0.9973036956675447,1.9979606466310607,-0.9979640077197581,</dec>
+    <hex>0x3f8015bb,0xbfffbd14,0x3f7f4f4c,0x3fffbd2d,0xbf7f7a92,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
     <freq>54.0</freq>
     <q>0.6</q>
     <boost>1.4</boost>
@@ -935,15 +944,6 @@
     <bypass>0</bypass>
     <dec>1.0004739423548963,-1.9945678859190747,0.9941064009202241,1.9945678859190747,-0.9945803432751207,</dec>
     <hex>0x3f800f88,0xbfff4e00,0x3f7e7dc2,0x3fff4e00,0xbf7e9cd1,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Ocean's Twelve</beq_title><beq_alt_title /><beq_sortTitle>ocean's twelve</beq_sortTitle><beq_year>2004</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/main/Oceans%20Twelve%20(2004)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/main/Oceans%20Twelve%20(2004)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>6.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Danny Ocean reunites with his old flame and the rest of his merry band of thieves in carrying out three huge heists in Rome, Paris and Amsterdam – but a Europol agent is hot on their heels.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1443#post-63279785</beq_avs><beq_theMovieDB>163</beq_theMovieDB><beq_poster>/Ad55M8newGWemFWCsMAkxO3fDwl.jpg</beq_poster><beq_runtime>125</beq_runtime><beq_collection id="304">Ocean's Collection</beq_collection><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="53">Thriller</genre><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Ocean's Twelve</beq_title><beq_alt_title /><beq_sortTitle>ocean's twelve</beq_sortTitle><beq_year>2004</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/main/Oceans%20Twelve%20(2004)%20DTS-HD%20MA%205.1%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/main/Oceans%20Twelve%20(2004)%20(%2B6.5%20gain)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>6.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Danny Ocean reunites with his old flame and the rest of his merry band of thieves in carrying out three huge heists in Rome, Paris and Amsterdam – but a Europol agent is hot on their heels.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs /><beq_theMovieDB>163</beq_theMovieDB><beq_poster>/Ad55M8newGWemFWCsMAkxO3fDwl.jpg</beq_poster><beq_runtime>125</beq_runtime><beq_collection id="304">Ocean's Collection</beq_collection><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="53">Thriller</genre><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
