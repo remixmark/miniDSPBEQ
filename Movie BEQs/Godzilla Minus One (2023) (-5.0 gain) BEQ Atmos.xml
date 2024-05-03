@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>14.0</freq>
+    <freq>10.0</freq>
     <q>0.9</q>
-    <boost>7.2</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002125898041179,-1.999171880113257,0.9989605605722305,1.9991722379998274,-0.9991727924897781,</dec>
-    <hex>0x3f8006f7,0xbfffe4dd,0x3f7fbbe1,0x3fffe4e0,0xbf7fc9ca,</hex>
+    <dec>1.000069194546105,-1.9993384558579308,0.9992697791256986,1.9993385376953976,-0.9993388918343363,</dec>
+    <hex>0x3f800244,0xbfffea53,0x3f7fd025,0x3fffea53,0xbf7fd4ac,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>14.0</freq>
     <q>0.9</q>
-    <boost>7.2</boost>
+    <boost>5.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002125898041179,-1.999171880113257,0.9989605605722305,1.9991722379998274,-0.9991727924897781,</dec>
-    <hex>0x3f8006f7,0xbfffe4dd,0x3f7fbbe1,0x3fffe4e0,0xbf7fc9ca,</hex>
+    <dec>1.0001619081510307,-1.9991304470845015,0.998969690753605,1.999130717252873,-0.9991313287362648,</dec>
+    <hex>0x3f80054e,0xbfffe382,0x3f7fbc7a,0x3fffe384,0xbf7fc712,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>40.0</freq>
-    <q>1.1</q>
-    <boost>0.6</boost>
-    <type>PK</type>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>5.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000082123936775,-1.9976966010024275,0.9976213230835247,1.9976966010024275,-0.9977034470202994,</dec>
-    <hex>0x3f8002b1,0xbfffb486,0x3f7f641c,0x3fffb486,0xbf7f697e,</hex>
+    <dec>1.0001619081510307,-1.9991304470845015,0.998969690753605,1.999130717252873,-0.9991313287362648,</dec>
+    <hex>0x3f80054e,0xbfffe382,0x3f7fbc7a,0x3fffe384,0xbf7fc712,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>7.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004613888556853,-1.998370860341915,0.9979147289978394,1.9983724181944498,-0.9983745600009899,</dec>
+    <hex>0x3f800f1e,0xbfffca9e,0x3f7f7757,0x3fffcaab,0xbf7f957a,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
+    <freq>60.0</freq>
     <q>0.7</q>
-    <boost>0</boost>
+    <boost>0.5</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001610513520642,-1.994548629891311,0.9944029578614545,1.994548629891311,-0.9945640092135188,</dec>
+    <hex>0x3f800547,0xbfff4d5f,0x3f7e9131,0x3fff4d5f,0xbf7e9bbf,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>14.0</freq>
+    <freq>10.0</freq>
     <q>0.9</q>
-    <boost>7.2</boost>
+    <boost>3.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002125898041179,-1.999171880113257,0.9989605605722305,1.9991722379998274,-0.9991727924897781,</dec>
-    <hex>0x3f8006f7,0xbfffe4dd,0x3f7fbbe1,0x3fffe4e0,0xbf7fc9ca,</hex>
+    <dec>1.000069194546105,-1.9993384558579308,0.9992697791256986,1.9993385376953976,-0.9993388918343363,</dec>
+    <hex>0x3f800244,0xbfffea53,0x3f7fd025,0x3fffea53,0xbf7fd4ac,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>14.0</freq>
     <q>0.9</q>
-    <boost>7.2</boost>
+    <boost>5.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002125898041179,-1.999171880113257,0.9989605605722305,1.9991722379998274,-0.9991727924897781,</dec>
-    <hex>0x3f8006f7,0xbfffe4dd,0x3f7fbbe1,0x3fffe4e0,0xbf7fc9ca,</hex>
+    <dec>1.0001619081510307,-1.9991304470845015,0.998969690753605,1.999130717252873,-0.9991313287362648,</dec>
+    <hex>0x3f80054e,0xbfffe382,0x3f7fbc7a,0x3fffe384,0xbf7fc712,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>40.0</freq>
-    <q>1.1</q>
-    <boost>0.6</boost>
-    <type>PK</type>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>5.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000082123936775,-1.9976966010024275,0.9976213230835247,1.9976966010024275,-0.9977034470202994,</dec>
-    <hex>0x3f8002b1,0xbfffb486,0x3f7f641c,0x3fffb486,0xbf7f697e,</hex>
+    <dec>1.0001619081510307,-1.9991304470845015,0.998969690753605,1.999130717252873,-0.9991313287362648,</dec>
+    <hex>0x3f80054e,0xbfffe382,0x3f7fbc7a,0x3fffe384,0xbf7fc712,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>28.0</freq>
+    <q>0.9</q>
+    <boost>7.8</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004613888556853,-1.998370860341915,0.9979147289978394,1.9983724181944498,-0.9983745600009899,</dec>
+    <hex>0x3f800f1e,0xbfffca9e,0x3f7f7757,0x3fffcaab,0xbf7f957a,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
+    <freq>60.0</freq>
     <q>0.7</q>
-    <boost>0</boost>
+    <boost>0.5</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001610513520642,-1.994548629891311,0.9944029578614545,1.994548629891311,-0.9945640092135188,</dec>
+    <hex>0x3f800547,0xbfff4d5f,0x3f7e9131,0x3fff4d5f,0xbf7e9bbf,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Godzilla Minus One</beq_title><beq_alt_title>ゴジラ-1.0</beq_alt_title><beq_sortTitle>godzilla minus one</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20Minus%20One%20(2023)%20(-5%20gain)%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20Minus%20One%20(2023)%20(-5%20gain)%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>-5.0</beq_gain><beq_language>Japanese</beq_language><beq_source>Disc</beq_source><beq_overview>Postwar Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444#post-63284658</beq_avs><beq_theMovieDB>940721</beq_theMovieDB><beq_poster>/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg</beq_poster><beq_runtime>125</beq_runtime><beq_collection /><beq_audioTypes><audioType>Atmos</audioType></beq_audioTypes><beq_genres><genre id="878">Science Fiction</genre><genre id="27">Horror</genre><genre id="28">Action</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Godzilla Minus One</beq_title><beq_alt_title>ゴジラ-1.0</beq_alt_title><beq_sortTitle>godzilla minus one</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20Minus%20One%20(2023)%20(-5%20gain)%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/main/Godzilla%20Minus%20One%20(2023)%20(-5%20gain)%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>-5.0</beq_gain><beq_language>Japanese</beq_language><beq_source>Disc</beq_source><beq_overview>Postwar Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1444?post_id=63284658#post-63284658</beq_avs><beq_theMovieDB>940721</beq_theMovieDB><beq_poster>/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg</beq_poster><beq_runtime>125</beq_runtime><beq_collection /><beq_audioTypes><audioType>Atmos</audioType></beq_audioTypes><beq_genres><genre id="878">Science Fiction</genre><genre id="27">Horror</genre><genre id="28">Action</genre></beq_genres></beq_metadata></setting>
