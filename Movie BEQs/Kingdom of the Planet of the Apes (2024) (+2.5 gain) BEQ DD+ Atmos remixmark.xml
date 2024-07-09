@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.9</q>
-    <boost>-5.0</boost>
-    <type>SL</type>
+    <freq>15.0</freq>
+    <q>3.3</q>
+    <boost>10.1</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998949645476335,-1.999160125353529,0.9992654819019147,1.999160000402319,-0.9991605714007589,</dec>
-    <hex>0x3f7ff91e,0xbfffe47b,0x3f7fcfdd,0x3fffe47a,0xbf7fc8fd,</hex>
+    <dec>1.0001828623449216,-1.9998327142255674,0.9996508156289702,1.9998327142255674,-0.9998336779738919,</dec>
+    <hex>0x3f8005fe,0xbffffa85,0x3f7fe91e,0x3ffffa85,0xbf7ff51a,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>15.0</freq>
-    <q>3.2</q>
-    <boost>8.3</boost>
-    <type>PK</type>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001522095245263,-1.9998087933298982,0.9996575475421685,1.9998087933298982,-0.9998097570666948,</dec>
-    <hex>0x3f8004fd,0xbffff9bc,0x3f7fe98f,0x3ffff9bc,0xbf7ff388,</hex>
+    <dec>1.0000737560167576,-1.998907331817073,0.9988348197995569,1.9989074709912815,-0.9989084366421065,</dec>
+    <hex>0x3f80026b,0xbfffdc32,0x3f7fb3a4,0x3fffdc33,0xbf7fb877,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.9</q>
-    <boost>6.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002763726313915,-1.9988661293874854,0.9985920559656064,1.9988667595364988,-0.9988677984479842,</dec>
-    <hex>0x3f80090e,0xbfffdad8,0x3f7fa3bb,0x3fffdade,0xbf7fb5cd,</hex>
+    <dec>1.0003080364651542,-1.9988200123866642,0.9985145828034451,1.998820753367989,-0.9988218782872748,</dec>
+    <hex>0x3f800a18,0xbfffd956,0x3f7f9ea7,0x3fffd95c,0xbf7fb2ca,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.9</q>
-    <boost>6.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002763726313915,-1.9988661293874854,0.9985920559656064,1.9988667595364988,-0.9988677984479842,</dec>
-    <hex>0x3f80090e,0xbfffdad8,0x3f7fa3bb,0x3fffdade,0xbf7fb5cd,</hex>
+    <dec>1.0003080364651542,-1.9988200123866642,0.9985145828034451,1.998820753367989,-0.9988218782872748,</dec>
+    <hex>0x3f800a18,0xbfffd956,0x3f7f9ea7,0x3fffd95c,0xbf7fb2ca,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.9</q>
-    <boost>6.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002763726313915,-1.9988661293874854,0.9985920559656064,1.9988667595364988,-0.9988677984479842,</dec>
-    <hex>0x3f80090e,0xbfffdad8,0x3f7fa3bb,0x3fffdade,0xbf7fb5cd,</hex>
+    <dec>1.0003080364651542,-1.9988200123866642,0.9985145828034451,1.998820753367989,-0.9988218782872748,</dec>
+    <hex>0x3f800a18,0xbfffd956,0x3f7f9ea7,0x3fffd95c,0xbf7fb2ca,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>45.0</freq>
-    <q>0.7</q>
-    <boost>0.6</boost>
+    <freq>50.0</freq>
+    <q>0.8</q>
+    <boost>0.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000145055447091,-1.9959349433606954,0.9957985447708069,1.9959349433606954,-0.995943600217898,</dec>
-    <hex>0x3f8004c1,0xbfff7acc,0x3f7eeca7,0x3fff7acc,0xbf7ef629,</hex>
+    <dec>1.000164553373536,-1.9960679624824849,0.9959140973083053,1.9960679624824849,-0.9960786506818414,</dec>
+    <hex>0x3f800564,0xbfff7f28,0x3f7ef43a,0x3fff7f28,0xbf7eff03,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.9</q>
-    <boost>-5.0</boost>
-    <type>SL</type>
+    <freq>15.0</freq>
+    <q>3.3</q>
+    <boost>10.1</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998949645476335,-1.999160125353529,0.9992654819019147,1.999160000402319,-0.9991605714007589,</dec>
-    <hex>0x3f7ff91e,0xbfffe47b,0x3f7fcfdd,0x3fffe47a,0xbf7fc8fd,</hex>
+    <dec>1.0001828623449216,-1.9998327142255674,0.9996508156289702,1.9998327142255674,-0.9998336779738919,</dec>
+    <hex>0x3f8005fe,0xbffffa85,0x3f7fe91e,0x3ffffa85,0xbf7ff51a,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>15.0</freq>
-    <q>3.2</q>
-    <boost>8.3</boost>
-    <type>PK</type>
+    <freq>16.0</freq>
+    <q>0.9</q>
+    <boost>2.2</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001522095245263,-1.9998087933298982,0.9996575475421685,1.9998087933298982,-0.9998097570666948,</dec>
-    <hex>0x3f8004fd,0xbffff9bc,0x3f7fe98f,0x3ffff9bc,0xbf7ff388,</hex>
+    <dec>1.0000737560167576,-1.998907331817073,0.9988348197995569,1.9989074709912815,-0.9989084366421065,</dec>
+    <hex>0x3f80026b,0xbfffdc32,0x3f7fb3a4,0x3fffdc33,0xbf7fb877,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.9</q>
-    <boost>6.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002763726313915,-1.9988661293874854,0.9985920559656064,1.9988667595364988,-0.9988677984479842,</dec>
-    <hex>0x3f80090e,0xbfffdad8,0x3f7fa3bb,0x3fffdade,0xbf7fb5cd,</hex>
+    <dec>1.0003080364651542,-1.9988200123866642,0.9985145828034451,1.998820753367989,-0.9988218782872748,</dec>
+    <hex>0x3f800a18,0xbfffd956,0x3f7f9ea7,0x3fffd95c,0xbf7fb2ca,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.9</q>
-    <boost>6.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002763726313915,-1.9988661293874854,0.9985920559656064,1.9988667595364988,-0.9988677984479842,</dec>
-    <hex>0x3f80090e,0xbfffdad8,0x3f7fa3bb,0x3fffdade,0xbf7fb5cd,</hex>
+    <dec>1.0003080364651542,-1.9988200123866642,0.9985145828034451,1.998820753367989,-0.9988218782872748,</dec>
+    <hex>0x3f800a18,0xbfffd956,0x3f7f9ea7,0x3fffd95c,0xbf7fb2ca,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>19.0</freq>
+    <freq>20.0</freq>
     <q>0.9</q>
-    <boost>6.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002763726313915,-1.9988661293874854,0.9985920559656064,1.9988667595364988,-0.9988677984479842,</dec>
-    <hex>0x3f80090e,0xbfffdad8,0x3f7fa3bb,0x3fffdade,0xbf7fb5cd,</hex>
+    <dec>1.0003080364651542,-1.9988200123866642,0.9985145828034451,1.998820753367989,-0.9988218782872748,</dec>
+    <hex>0x3f800a18,0xbfffd956,0x3f7f9ea7,0x3fffd95c,0xbf7fb2ca,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>45.0</freq>
-    <q>0.7</q>
-    <boost>0.6</boost>
+    <freq>50.0</freq>
+    <q>0.8</q>
+    <boost>0.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000145055447091,-1.9959349433606954,0.9957985447708069,1.9959349433606954,-0.995943600217898,</dec>
-    <hex>0x3f8004c1,0xbfff7acc,0x3f7eeca7,0x3fff7acc,0xbf7ef629,</hex>
+    <dec>1.000164553373536,-1.9960679624824849,0.9959140973083053,1.9960679624824849,-0.9960786506818414,</dec>
+    <hex>0x3f800564,0xbfff7f28,0x3f7ef43a,0x3fff7f28,0xbf7eff03,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Kingdom of the Planet of the Apes</beq_title><beq_alt_title /><beq_sortTitle>kingdom of the planet of the apes</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/main/Kingdom%20of%20the%20Planet%20of%20the%20Apes%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/main/Kingdom%20of%20the%20Planet%20of%20the%20Apes%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>dialnorm compensation: 11dB</beq_note><beq_warning /><beq_gain>2.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1478?post_id=63415324#post-63415324</beq_avs><beq_theMovieDB>653346</beq_theMovieDB><beq_poster>/gKkl37BQuKTanygYQG1pyYgLVgf.jpg</beq_poster><beq_runtime>145</beq_runtime><beq_collection id="173710">Planet of the Apes (Reboot) Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="878">Science Fiction</genre><genre id="12">Adventure</genre><genre id="28">Action</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Kingdom of the Planet of the Apes</beq_title><beq_alt_title /><beq_sortTitle>kingdom of the planet of the apes</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/main/Kingdom%20of%20the%20Planet%20of%20the%20Apes%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/main/Kingdom%20of%20the%20Planet%20of%20the%20Apes%20(2024)%20(%2B2.5%20gain)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>Dialnorm Compensation: 11dB</beq_note><beq_warning /><beq_gain>2.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1478?post_id=63415324#post-63415324</beq_avs><beq_theMovieDB>653346</beq_theMovieDB><beq_poster>/gKkl37BQuKTanygYQG1pyYgLVgf.jpg</beq_poster><beq_runtime>145</beq_runtime><beq_collection id="173710">Planet of the Apes (Reboot) Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="878">Science Fiction</genre><genre id="12">Adventure</genre><genre id="28">Action</genre></beq_genres></beq_metadata></setting>
