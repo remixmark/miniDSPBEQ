@@ -802,67 +802,67 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>22.0</freq>
+    <freq>14.0</freq>
     <q>0.9</q>
-    <boost>6.8</boost>
+    <boost>-5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003153408161183,-1.9986831384101493,0.9983708622171127,1.9986839703201817,-0.9986853711231981,</dec>
-    <hex>0x3f800a55,0xbfffd4d9,0x3f7f953c,0x3fffd4e0,0xbf7fa9d8,</hex>
+    <dec>0.9998499781989567,-1.9988207370159239,0.9989713844466153,1.9988204871172586,-0.9988216125442368,</dec>
+    <hex>0x3f7ff62b,0xbfffd95c,0x3f7fbc97,0x3fffd95a,0xbf7fb2c6,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>22.0</freq>
+    <freq>14.0</freq>
     <q>0.9</q>
-    <boost>6.8</boost>
+    <boost>-5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003153408161183,-1.9986831384101493,0.9983708622171127,1.9986839703201817,-0.9986853711231981,</dec>
-    <hex>0x3f800a55,0xbfffd4d9,0x3f7f953c,0x3fffd4e0,0xbf7fa9d8,</hex>
+    <dec>0.9998499781989567,-1.9988207370159239,0.9989713844466153,1.9988204871172586,-0.9988216125442368,</dec>
+    <hex>0x3f7ff62b,0xbfffd95c,0x3f7fbc97,0x3fffd95a,0xbf7fb2c6,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>45.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>PK</type>
+    <freq>22.0</freq>
+    <q>0.9</q>
+    <boost>8.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126955702647,-1.9964410910611177,0.9963227944109591,1.9964410910611177,-0.9964497501136065,</dec>
-    <hex>0x3f800429,0xbfff8b62,0x3f7f0f03,0x3fff8b62,0xbf7f1755,</hex>
+    <dec>1.0003719091363048,-1.9987276776419745,0.9983590523818225,1.9987286659127292,-0.9987299732473728,</dec>
+    <hex>0x3f800c30,0xbfffd64f,0x3f7f9475,0x3fffd657,0xbf7facc4,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>22.0</freq>
+    <q>0.9</q>
+    <boost>8.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003719091363048,-1.9987276776419745,0.9983590523818225,1.9987286659127292,-0.9987299732473728,</dec>
+    <hex>0x3f800c30,0xbfffd64f,0x3f7f9475,0x3fffd657,0xbf7facc4,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>22.0</freq>
+    <q>0.9</q>
+    <boost>8.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003719091363048,-1.9987276776419745,0.9983590523818225,1.9987286659127292,-0.9987299732473728,</dec>
+    <hex>0x3f800c30,0xbfffd64f,0x3f7f9475,0x3fffd657,0xbf7facc4,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>31.0</freq>
+    <q>4.0</q>
+    <boost>-2.8</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999179132242323,-1.9994001118382783,0.9994863140051989,1.9994001118382783,-0.9994042272294313,</dec>
+    <hex>0x3f7ffa9f,0xbfffec58,0x3f7fde56,0x3fffec58,0xbf7fd8f5,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>55.0</freq>
+    <q>0.8</q>
+    <boost>0.7</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000180973160241,-1.995674432747531,0.9955063897709104,1.995674432747531,-0.9956873629311512,</dec>
+    <hex>0x3f8005ee,0xbfff7243,0x3f7ed982,0x3fff7243,0xbf7ee55e,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -892,67 +892,67 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>22.0</freq>
+    <freq>14.0</freq>
     <q>0.9</q>
-    <boost>6.8</boost>
+    <boost>-5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003153408161183,-1.9986831384101493,0.9983708622171127,1.9986839703201817,-0.9986853711231981,</dec>
-    <hex>0x3f800a55,0xbfffd4d9,0x3f7f953c,0x3fffd4e0,0xbf7fa9d8,</hex>
+    <dec>0.9998499781989567,-1.9988207370159239,0.9989713844466153,1.9988204871172586,-0.9988216125442368,</dec>
+    <hex>0x3f7ff62b,0xbfffd95c,0x3f7fbc97,0x3fffd95a,0xbf7fb2c6,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>22.0</freq>
+    <freq>14.0</freq>
     <q>0.9</q>
-    <boost>6.8</boost>
+    <boost>-5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003153408161183,-1.9986831384101493,0.9983708622171127,1.9986839703201817,-0.9986853711231981,</dec>
-    <hex>0x3f800a55,0xbfffd4d9,0x3f7f953c,0x3fffd4e0,0xbf7fa9d8,</hex>
+    <dec>0.9998499781989567,-1.9988207370159239,0.9989713844466153,1.9988204871172586,-0.9988216125442368,</dec>
+    <hex>0x3f7ff62b,0xbfffd95c,0x3f7fbc97,0x3fffd95a,0xbf7fb2c6,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>45.0</freq>
-    <q>0.8</q>
-    <boost>0.6</boost>
-    <type>PK</type>
+    <freq>22.0</freq>
+    <q>0.9</q>
+    <boost>8.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126955702647,-1.9964410910611177,0.9963227944109591,1.9964410910611177,-0.9964497501136065,</dec>
-    <hex>0x3f800429,0xbfff8b62,0x3f7f0f03,0x3fff8b62,0xbf7f1755,</hex>
+    <dec>1.0003719091363048,-1.9987276776419745,0.9983590523818225,1.9987286659127292,-0.9987299732473728,</dec>
+    <hex>0x3f800c30,0xbfffd64f,0x3f7f9475,0x3fffd657,0xbf7facc4,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>22.0</freq>
+    <q>0.9</q>
+    <boost>8.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003719091363048,-1.9987276776419745,0.9983590523818225,1.9987286659127292,-0.9987299732473728,</dec>
+    <hex>0x3f800c30,0xbfffd64f,0x3f7f9475,0x3fffd657,0xbf7facc4,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>22.0</freq>
+    <q>0.9</q>
+    <boost>8.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003719091363048,-1.9987276776419745,0.9983590523818225,1.9987286659127292,-0.9987299732473728,</dec>
+    <hex>0x3f800c30,0xbfffd64f,0x3f7f9475,0x3fffd657,0xbf7facc4,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>31.0</freq>
+    <q>4.0</q>
+    <boost>-2.8</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999179132242323,-1.9994001118382783,0.9994863140051989,1.9994001118382783,-0.9994042272294313,</dec>
+    <hex>0x3f7ffa9f,0xbfffec58,0x3f7fde56,0x3fffec58,0xbf7fd8f5,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>55.0</freq>
+    <q>0.8</q>
+    <boost>0.7</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.000180973160241,-1.995674432747531,0.9955063897709104,1.995674432747531,-0.9956873629311512,</dec>
+    <hex>0x3f8005ee,0xbfff7243,0x3f7ed982,0x3fff7243,0xbf7ee55e,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Venom: The Last Dance</beq_title><beq_alt_title /><beq_sortTitle>venom: the last dance</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Venom%20The%20Last%20Dance%20(2024)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Venom%20The%20Last%20Dance%20(2024)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>Dialnorm Compensation: 10dB</beq_note><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1538?post_id=63700555#post-63700555</beq_avs><beq_theMovieDB>912649</beq_theMovieDB><beq_poster>/aosm8NMQ3UyoBVpSxyimorCQykC.jpg</beq_poster><beq_runtime>109</beq_runtime><beq_collection id="558216">Venom Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="878">Science Fiction</genre><genre id="28">Action</genre><genre id="12">Adventure</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Venom: The Last Dance</beq_title><beq_alt_title /><beq_sortTitle>venom: the last dance</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Venom%20The%20Last%20Dance%20(2024)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Venom%20The%20Last%20Dance%20(2024)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>Dialnorm Compensation: 10dB</beq_note><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1538?post_id=63700555#post-63700555</beq_avs><beq_theMovieDB>912649</beq_theMovieDB><beq_poster>/aosm8NMQ3UyoBVpSxyimorCQykC.jpg</beq_poster><beq_runtime>109</beq_runtime><beq_collection id="558216">Venom Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="878">Science Fiction</genre><genre id="12">Adventure</genre></beq_genres></beq_metadata></setting>
