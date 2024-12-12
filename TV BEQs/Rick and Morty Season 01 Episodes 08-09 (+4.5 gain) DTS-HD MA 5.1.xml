@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>3.3</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000899599439756,-1.9991399079079433,0.9990508229826299,1.999140046199547,-0.9991406446350017,</dec>
+    <hex>0x3f8002f3,0xbfffe3d1,0x3f7fc1cb,0x3fffe3d2,0xbf7fc7ae,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>30.0</freq>
+    <q>0.9</q>
+    <boost>7.6</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004814921350405,-1.998244287184227,0.9977687609948259,1.9982460266470066,-0.9982485136670866,</dec>
+    <hex>0x3f800fc7,0xbfffc678,0x3f7f6dc6,0x3fffc687,0xbf7f8d37,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>30.0</freq>
+    <q>0.9</q>
+    <boost>7.6</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004814921350405,-1.998244287184227,0.9977687609948259,1.9982460266470066,-0.9982485136670866,</dec>
+    <hex>0x3f800fc7,0xbfffc678,0x3f7f6dc6,0x3fffc687,0xbf7f8d37,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>30.0</freq>
+    <q>0.9</q>
+    <boost>7.6</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004814921350405,-1.998244287184227,0.9977687609948259,1.9982460266470066,-0.9982485136670866,</dec>
+    <hex>0x3f800fc7,0xbfffc678,0x3f7f6dc6,0x3fffc687,0xbf7f8d37,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>65.0</freq>
+    <q>0.8</q>
+    <boost>0.8</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0002443590914354,-1.9949163656290005,0.9946900592288926,1.9949163656290005,-0.994934418320328,</dec>
+    <hex>0x3f800802,0xbfff596b,0x3f7ea402,0x3fff596b,0xbf7eb406,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>13.0</freq>
+    <q>0.9</q>
+    <boost>3.3</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000899599439756,-1.9991399079079433,0.9990508229826299,1.999140046199547,-0.9991406446350017,</dec>
+    <hex>0x3f8002f3,0xbfffe3d1,0x3f7fc1cb,0x3fffe3d2,0xbf7fc7ae,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>30.0</freq>
+    <q>0.9</q>
+    <boost>7.6</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004814921350405,-1.998244287184227,0.9977687609948259,1.9982460266470066,-0.9982485136670866,</dec>
+    <hex>0x3f800fc7,0xbfffc678,0x3f7f6dc6,0x3fffc687,0xbf7f8d37,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>30.0</freq>
+    <q>0.9</q>
+    <boost>7.6</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004814921350405,-1.998244287184227,0.9977687609948259,1.9982460266470066,-0.9982485136670866,</dec>
+    <hex>0x3f800fc7,0xbfffc678,0x3f7f6dc6,0x3fffc687,0xbf7f8d37,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>30.0</freq>
+    <q>0.9</q>
+    <boost>7.6</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004814921350405,-1.998244287184227,0.9977687609948259,1.9982460266470066,-0.9982485136670866,</dec>
+    <hex>0x3f800fc7,0xbfffc678,0x3f7f6dc6,0x3fffc687,0xbf7f8d37,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>65.0</freq>
+    <q>0.8</q>
+    <boost>0.8</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0002443590914354,-1.9949163656290005,0.9946900592288926,1.9949163656290005,-0.994934418320328,</dec>
+    <hex>0x3f800802,0xbfff596b,0x3f7ea402,0x3fff596b,0xbf7eb406,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Rick and Morty</beq_title><beq_alt_title /><beq_sortTitle>rick and morty</beq_sortTitle><beq_year>2013</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/main/Rick%20and%20Morty%20Season%201%20episodes%208%209%20(2013)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season>1E8,9</beq_season><beq_note /><beq_warning /><beq_gain>+4.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.</beq_overview><beq_rating>TV-14</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1442#post-63277225</beq_avs><beq_theMovieDB>60625</beq_theMovieDB><beq_poster>/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="35">Comedy</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Rick and Morty</beq_title><beq_alt_title /><beq_sortTitle>rick and morty</beq_sortTitle><beq_year>2013</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/main/Rick%20and%20Morty%20Season%201%20episodes%208%209%20(2013)%20(%2B4.5%20gain)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season>01E08-09</beq_season><beq_note /><beq_warning /><beq_gain>4.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.</beq_overview><beq_rating>TV-14</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1442#post-63277225</beq_avs><beq_theMovieDB>60625</beq_theMovieDB><beq_poster>/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="35">Comedy</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
