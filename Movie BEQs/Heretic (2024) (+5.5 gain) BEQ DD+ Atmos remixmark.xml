@@ -804,56 +804,56 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.9</q>
-    <boost>7.5</boost>
+    <boost>7.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001582542092582,-1.9994136779283058,0.9992560831814441,1.9994138686130105,-0.9994141467059973,</dec>
-    <hex>0x3f800530,0xbfffecca,0x3f7fcf3f,0x3fffeccb,0xbf7fd99b,</hex>
+    <dec>1.000156111942724,-1.999411990864597,0.9992565345984498,1.9994121788537862,-0.999412458551985,</dec>
+    <hex>0x3f80051e,0xbfffecbb,0x3f7fcf47,0x3fffecbd,0xbf7fd97f,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>10.0</freq>
     <q>0.9</q>
-    <boost>7.5</boost>
+    <boost>7.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001582542092582,-1.9994136779283058,0.9992560831814441,1.9994138686130105,-0.9994141467059973,</dec>
-    <hex>0x3f800530,0xbfffecca,0x3f7fcf3f,0x3fffeccb,0xbf7fd99b,</hex>
+    <dec>1.000156111942724,-1.999411990864597,0.9992565345984498,1.9994121788537862,-0.999412458551985,</dec>
+    <hex>0x3f80051e,0xbfffecbb,0x3f7fcf47,0x3fffecbd,0xbf7fd97f,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>10.0</freq>
     <q>0.9</q>
+    <boost>7.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000156111942724,-1.999411990864597,0.9992565345984498,1.9994121788537862,-0.999412458551985,</dec>
+    <hex>0x3f80051e,0xbfffecbb,0x3f7fcf47,0x3fffecbd,0xbf7fd97f,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>23.0</freq>
+    <q>0.9</q>
     <boost>7.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001582542092582,-1.9994136779283058,0.9992560831814441,1.9994138686130105,-0.9994141467059973,</dec>
-    <hex>0x3f800530,0xbfffecca,0x3f7fcf3f,0x3fffeccb,0xbf7fd99b,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003210763848462,-1.9984730178346306,0.9981557421725143,1.998473976661595,-0.9984758597303968,</dec>
-    <hex>0x3f800a85,0xbfffcdf7,0x3f7f8722,0x3fffcdff,0xbf7f9c1d,</hex>
+    <dec>1.0003641310393583,-1.9986505716538834,0.9982899278426767,1.9986515799920002,-0.9986530505439183,</dec>
+    <hex>0x3f800bef,0xbfffd3c8,0x3f7f8fee,0x3fffd3d1,0xbf7fa7ba,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003210763848462,-1.9984730178346306,0.9981557421725143,1.998473976661595,-0.9984758597303968,</dec>
-    <hex>0x3f800a85,0xbfffcdf7,0x3f7f8722,0x3fffcdff,0xbf7f9c1d,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>55.0</freq>
-    <q>0.7</q>
-    <boost>0.7</boost>
+    <freq>45.0</freq>
+    <q>0.8</q>
+    <boost>0.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000206762776503,-1.9950598635245307,0.9948660269497895,1.9950598635245307,-0.9950727897262924,</dec>
-    <hex>0x3f8006c6,0xbfff5e1f,0x3f7eaf8a,0x3fff5e1f,0xbf7ebd17,</hex>
+    <dec>1.000126955702647,-1.9964410910611177,0.9963227944109591,1.9964410910611177,-0.9964497501136065,</dec>
+    <hex>0x3f800429,0xbfff8b62,0x3f7f0f03,0x3fff8b62,0xbf7f1755,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -894,56 +894,56 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.9</q>
-    <boost>7.5</boost>
+    <boost>7.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001582542092582,-1.9994136779283058,0.9992560831814441,1.9994138686130105,-0.9994141467059973,</dec>
-    <hex>0x3f800530,0xbfffecca,0x3f7fcf3f,0x3fffeccb,0xbf7fd99b,</hex>
+    <dec>1.000156111942724,-1.999411990864597,0.9992565345984498,1.9994121788537862,-0.999412458551985,</dec>
+    <hex>0x3f80051e,0xbfffecbb,0x3f7fcf47,0x3fffecbd,0xbf7fd97f,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>10.0</freq>
     <q>0.9</q>
-    <boost>7.5</boost>
+    <boost>7.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001582542092582,-1.9994136779283058,0.9992560831814441,1.9994138686130105,-0.9994141467059973,</dec>
-    <hex>0x3f800530,0xbfffecca,0x3f7fcf3f,0x3fffeccb,0xbf7fd99b,</hex>
+    <dec>1.000156111942724,-1.999411990864597,0.9992565345984498,1.9994121788537862,-0.999412458551985,</dec>
+    <hex>0x3f80051e,0xbfffecbb,0x3f7fcf47,0x3fffecbd,0xbf7fd97f,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>10.0</freq>
     <q>0.9</q>
+    <boost>7.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.000156111942724,-1.999411990864597,0.9992565345984498,1.9994121788537862,-0.999412458551985,</dec>
+    <hex>0x3f80051e,0xbfffecbb,0x3f7fcf47,0x3fffecbd,0xbf7fd97f,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>23.0</freq>
+    <q>0.9</q>
     <boost>7.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001582542092582,-1.9994136779283058,0.9992560831814441,1.9994138686130105,-0.9994141467059973,</dec>
-    <hex>0x3f800530,0xbfffecca,0x3f7fcf3f,0x3fffeccb,0xbf7fd99b,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003210763848462,-1.9984730178346306,0.9981557421725143,1.998473976661595,-0.9984758597303968,</dec>
-    <hex>0x3f800a85,0xbfffcdf7,0x3f7f8722,0x3fffcdff,0xbf7f9c1d,</hex>
+    <dec>1.0003641310393583,-1.9986505716538834,0.9982899278426767,1.9986515799920002,-0.9986530505439183,</dec>
+    <hex>0x3f800bef,0xbfffd3c8,0x3f7f8fee,0x3fffd3d1,0xbf7fa7ba,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>25.0</freq>
-    <q>0.9</q>
-    <boost>6.1</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003210763848462,-1.9984730178346306,0.9981557421725143,1.998473976661595,-0.9984758597303968,</dec>
-    <hex>0x3f800a85,0xbfffcdf7,0x3f7f8722,0x3fffcdff,0xbf7f9c1d,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>55.0</freq>
-    <q>0.7</q>
-    <boost>0.7</boost>
+    <freq>45.0</freq>
+    <q>0.8</q>
+    <boost>0.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.000206762776503,-1.9950598635245307,0.9948660269497895,1.9950598635245307,-0.9950727897262924,</dec>
-    <hex>0x3f8006c6,0xbfff5e1f,0x3f7eaf8a,0x3fff5e1f,0xbf7ebd17,</hex>
+    <dec>1.000126955702647,-1.9964410910611177,0.9963227944109591,1.9964410910611177,-0.9964497501136065,</dec>
+    <hex>0x3f800429,0xbfff8b62,0x3f7f0f03,0x3fff8b62,0xbf7f1755,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Heretic</beq_title><beq_alt_title>Das Erbe</beq_alt_title><beq_sortTitle>heretic</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Heretic%20(2024)%20(%2B5.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Heretic%20(2024)%20(%2B5.5%20gain)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>Dialnorm Compensation: 3dB</beq_note><beq_warning /><beq_gain>5.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.</beq_overview><beq_rating>R</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63706342#post-63706342</beq_avs><beq_theMovieDB>1138194</beq_theMovieDB><beq_poster>/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg</beq_poster><beq_runtime>111</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Heretic</beq_title><beq_alt_title /><beq_sortTitle>heretic</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Heretic%20(2024)%20(%2B5.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Heretic%20(2024)%20(%2B5.5%20gain)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>Dialnorm Compensation: 3dB</beq_note><beq_warning /><beq_gain>5.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.</beq_overview><beq_rating>R</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1539?post_id=63706342#post-63706342</beq_avs><beq_theMovieDB>1138194</beq_theMovieDB><beq_poster>/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg</beq_poster><beq_runtime>111</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
