@@ -813,38 +813,38 @@
   <filter name="PEQ_1_2" addr="8285">
     <freq>30.0</freq>
     <q>0.8</q>
-    <boost>9.4</boost>
+    <boost>9.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006726344849473,-1.9981247446545403,0.997458727051453,1.9981269320495951,-0.9981291741413453,</dec>
-    <hex>0x3f80160a,0xbfffc28d,0x3f7f5975,0x3fffc2a0,0xbf7f8565,</hex>
+    <dec>1.0006799693936126,-1.9981301038841923,0.9974567895900295,1.9981323168197622,-0.9981345460480715,</dec>
+    <hex>0x3f801648,0xbfffc2ba,0x3f7f5954,0x3fffc2cd,0xbf7f85bf,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>30.0</freq>
     <q>0.8</q>
-    <boost>9.4</boost>
+    <boost>9.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006726344849473,-1.9981247446545403,0.997458727051453,1.9981269320495951,-0.9981291741413453,</dec>
-    <hex>0x3f80160a,0xbfffc28d,0x3f7f5975,0x3fffc2a0,0xbf7f8565,</hex>
+    <dec>1.0006799693936126,-1.9981301038841923,0.9974567895900295,1.9981323168197622,-0.9981345460480715,</dec>
+    <hex>0x3f801648,0xbfffc2ba,0x3f7f5954,0x3fffc2cd,0xbf7f85bf,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>30.0</freq>
     <q>0.8</q>
-    <boost>9.4</boost>
+    <boost>9.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006726344849473,-1.9981247446545403,0.997458727051453,1.9981269320495951,-0.9981291741413453,</dec>
-    <hex>0x3f80160a,0xbfffc28d,0x3f7f5975,0x3fffc2a0,0xbf7f8565,</hex>
+    <dec>1.0006799693936126,-1.9981301038841923,0.9974567895900295,1.9981323168197622,-0.9981345460480715,</dec>
+    <hex>0x3f801648,0xbfffc2ba,0x3f7f5954,0x3fffc2cd,0xbf7f85bf,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>66.0</freq>
+    <freq>75.0</freq>
     <q>0.8</q>
     <boost>0.3</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000930055500399,-1.9946882869139064,0.9946138916718388,1.9946882869139064,-0.9947068972218785,</dec>
-    <hex>0x3f80030c,0xbfff51f2,0x3f7e9f04,0x3fff51f2,0xbf7ea51c,</hex>
+    <dec>1.0001056499012306,-1.9939632626358765,0.9938816359599577,1.9939632626358765,-0.9939872858611885,</dec>
+    <hex>0x3f800376,0xbfff3a30,0x3f7e6f07,0x3fff3a30,0xbf7e75f3,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -903,38 +903,38 @@
   <filter name="PEQ_2_2" addr="8335">
     <freq>30.0</freq>
     <q>0.8</q>
-    <boost>9.4</boost>
+    <boost>9.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006726344849473,-1.9981247446545403,0.997458727051453,1.9981269320495951,-0.9981291741413453,</dec>
-    <hex>0x3f80160a,0xbfffc28d,0x3f7f5975,0x3fffc2a0,0xbf7f8565,</hex>
+    <dec>1.0006799693936126,-1.9981301038841923,0.9974567895900295,1.9981323168197622,-0.9981345460480715,</dec>
+    <hex>0x3f801648,0xbfffc2ba,0x3f7f5954,0x3fffc2cd,0xbf7f85bf,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>30.0</freq>
     <q>0.8</q>
-    <boost>9.4</boost>
+    <boost>9.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006726344849473,-1.9981247446545403,0.997458727051453,1.9981269320495951,-0.9981291741413453,</dec>
-    <hex>0x3f80160a,0xbfffc28d,0x3f7f5975,0x3fffc2a0,0xbf7f8565,</hex>
+    <dec>1.0006799693936126,-1.9981301038841923,0.9974567895900295,1.9981323168197622,-0.9981345460480715,</dec>
+    <hex>0x3f801648,0xbfffc2ba,0x3f7f5954,0x3fffc2cd,0xbf7f85bf,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>30.0</freq>
     <q>0.8</q>
-    <boost>9.4</boost>
+    <boost>9.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0006726344849473,-1.9981247446545403,0.997458727051453,1.9981269320495951,-0.9981291741413453,</dec>
-    <hex>0x3f80160a,0xbfffc28d,0x3f7f5975,0x3fffc2a0,0xbf7f8565,</hex>
+    <dec>1.0006799693936126,-1.9981301038841923,0.9974567895900295,1.9981323168197622,-0.9981345460480715,</dec>
+    <hex>0x3f801648,0xbfffc2ba,0x3f7f5954,0x3fffc2cd,0xbf7f85bf,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>66.0</freq>
+    <freq>75.0</freq>
     <q>0.8</q>
     <boost>0.3</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000930055500399,-1.9946882869139064,0.9946138916718388,1.9946882869139064,-0.9947068972218785,</dec>
-    <hex>0x3f80030c,0xbfff51f2,0x3f7e9f04,0x3fff51f2,0xbf7ea51c,</hex>
+    <dec>1.0001056499012306,-1.9939632626358765,0.9938816359599577,1.9939632626358765,-0.9939872858611885,</dec>
+    <hex>0x3f800376,0xbfff3a30,0x3f7e6f07,0x3fff3a30,0xbf7e75f3,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>INVINCIBLE</beq_title><beq_alt_title /><beq_sortTitle>invincible</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Invincible%20(2021)%20-%20S03.jpg</beq_pvaURL><beq_edition /><beq_season>03E01-04</beq_season><beq_note /><beq_warning /><beq_gain>4.0</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1559?post_id=63840854#post-63840854</beq_avs><beq_theMovieDB>95557</beq_theMovieDB><beq_poster>/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>INVINCIBLE</beq_title><beq_alt_title /><beq_sortTitle>invincible</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Invincible%20(2021)%20(%2B4%20gain)%20-%20S03%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season>03E01-05</beq_season><beq_note /><beq_warning /><beq_gain>4.0</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1563?post_id=63858330#post-63858330</beq_avs><beq_theMovieDB>95557</beq_theMovieDB><beq_poster>/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
