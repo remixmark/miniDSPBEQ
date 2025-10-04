@@ -804,20 +804,20 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>13.0</freq>
     <q>0.9</q>
-    <boost>6.7</boost>
+    <boost>6.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001835133908452,-1.999219947820943,0.9990374986582026,1.9992202338955565,-0.9992207259744348,</dec>
-    <hex>0x3f800603,0xbfffe670,0x3f7fc0ec,0x3fffe673,0xbf7fccee,</hex>
+    <dec>1.0001890627982033,-1.9992244157153434,0.999036429470835,1.9992247107685976,-0.999225197215784,</dec>
+    <hex>0x3f800632,0xbfffe696,0x3f7fc0da,0x3fffe698,0xbf7fcd39,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>13.0</freq>
     <q>0.9</q>
-    <boost>6.7</boost>
+    <boost>6.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001835133908452,-1.999219947820943,0.9990374986582026,1.9992202338955565,-0.9992207259744348,</dec>
-    <hex>0x3f800603,0xbfffe670,0x3f7fc0ec,0x3fffe673,0xbf7fccee,</hex>
+    <dec>1.0001890627982033,-1.9992244157153434,0.999036429470835,1.9992247107685976,-0.999225197215784,</dec>
+    <hex>0x3f800632,0xbfffe696,0x3f7fc0da,0x3fffe698,0xbf7fcd39,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>14.0</freq>
@@ -829,58 +829,58 @@
     <hex>0x3f800299,0xbffffaa1,0x3f7ff01d,0x3ffffaa1,0xbf7ff550,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
-    <q>0.7</q>
-    <boost>6.8</boost>
-    <type>SL</type>
+    <freq>17.9</freq>
+    <q>6.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003683968864079,-1.9984617462365752,0.9980958818154776,1.9984624336892385,-0.9984635912492222,</dec>
-    <hex>0x3f800c12,0xbfffcd98,0x3f7f8336,0x3fffcd9e,0xbf7f9b4f,</hex>
+    <dec>1.0000569749650783,-1.9998522149425437,0.9997966124115291,1.9998522149425437,-0.9998535873766072,</dec>
+    <hex>0x3f8001de,0xbffffb28,0x3f7ff2ac,0x3ffffb28,0xbf7ff668,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>20.0</freq>
     <q>0.7</q>
-    <boost>6.8</boost>
+    <boost>6.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003683968864079,-1.9984617462365752,0.9980958818154776,1.9984624336892385,-0.9984635912492222,</dec>
-    <hex>0x3f800c12,0xbfffcd98,0x3f7f8336,0x3fffcd9e,0xbf7f9b4f,</hex>
+    <dec>1.000351947729688,-1.9984484443175816,0.9980989856779491,1.9984491000045623,-0.9984502777206559,</dec>
+    <hex>0x3f800b88,0xbfffcd29,0x3f7f836a,0x3fffcd2e,0xbf7f9a70,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>20.5</freq>
-    <q>10.0</q>
-    <boost>-1.9</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.7</q>
+    <boost>6.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999852970430355,-1.9998485316039851,0.9998650346435178,1.9998485316039851,-0.9998503316865534,</dec>
-    <hex>0x3f7fff09,0xbffffb09,0x3f7ff728,0x3ffffb09,0xbf7ff631,</hex>
+    <dec>1.000351947729688,-1.9984484443175816,0.9980989856779491,1.9984491000045623,-0.9984502777206559,</dec>
+    <hex>0x3f800b88,0xbfffcd29,0x3f7f836a,0x3fffcd2e,0xbf7f9a70,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>28.0</freq>
-    <q>5.0</q>
-    <boost>3.0</boost>
+    <freq>20.7</freq>
+    <q>10.0</q>
+    <boost>-3.3</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000636008533415,-1.999688302402113,0.99962805943712,1.999688302402113,-0.9996916602904613,</dec>
-    <hex>0x3f800216,0xbffff5c9,0x3f7fe7a0,0x3ffff5c9,0xbf7febcb,</hex>
+    <dec>0.9999741106126804,-1.9998343535548713,0.9998620783066711,1.9998343535548713,-0.9998361889193513,</dec>
+    <hex>0x3f7ffe4e,0xbffffa92,0x3f7ff6f6,0x3ffffa92,0xbf7ff544,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>28.0</freq>
+    <q>5.0</q>
+    <boost>6.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001291063617894,-1.9997372001520648,0.9996114517607331,1.9997372001520648,-0.9997405581225223,</dec>
+    <hex>0x3f80043b,0xbffff763,0x3f7fe689,0x3ffff763,0xbf7feeff,</hex>
   </filter>
   <filter name="PEQ_1_9" addr="8320">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>38.0</freq>
+    <q>10.0</q>
+    <boost>-3.9</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999437028327437,-1.9996825547002317,0.9997450365391078,1.9996825547002317,-0.9996887393718515,</dec>
+    <hex>0x3f7ffc4f,0xbffff599,0x3f7fef4a,0x3ffff599,0xbf7feb9a,</hex>
   </filter>
   <filter name="PEQ_1_10" addr="8325">
     <freq>1000</freq>
@@ -894,20 +894,20 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>13.0</freq>
     <q>0.9</q>
-    <boost>6.7</boost>
+    <boost>6.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001835133908452,-1.999219947820943,0.9990374986582026,1.9992202338955565,-0.9992207259744348,</dec>
-    <hex>0x3f800603,0xbfffe670,0x3f7fc0ec,0x3fffe673,0xbf7fccee,</hex>
+    <dec>1.0001890627982033,-1.9992244157153434,0.999036429470835,1.9992247107685976,-0.999225197215784,</dec>
+    <hex>0x3f800632,0xbfffe696,0x3f7fc0da,0x3fffe698,0xbf7fcd39,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>13.0</freq>
     <q>0.9</q>
-    <boost>6.7</boost>
+    <boost>6.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001835133908452,-1.999219947820943,0.9990374986582026,1.9992202338955565,-0.9992207259744348,</dec>
-    <hex>0x3f800603,0xbfffe670,0x3f7fc0ec,0x3fffe673,0xbf7fccee,</hex>
+    <dec>1.0001890627982033,-1.9992244157153434,0.999036429470835,1.9992247107685976,-0.999225197215784,</dec>
+    <hex>0x3f800632,0xbfffe696,0x3f7fc0da,0x3fffe698,0xbf7fcd39,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>14.0</freq>
@@ -919,58 +919,58 @@
     <hex>0x3f800299,0xbffffaa1,0x3f7ff01d,0x3ffffaa1,0xbf7ff550,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
-    <q>0.7</q>
-    <boost>6.8</boost>
-    <type>SL</type>
+    <freq>17.9</freq>
+    <q>6.0</q>
+    <boost>5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0003683968864079,-1.9984617462365752,0.9980958818154776,1.9984624336892385,-0.9984635912492222,</dec>
-    <hex>0x3f800c12,0xbfffcd98,0x3f7f8336,0x3fffcd9e,0xbf7f9b4f,</hex>
+    <dec>1.0000569749650783,-1.9998522149425437,0.9997966124115291,1.9998522149425437,-0.9998535873766072,</dec>
+    <hex>0x3f8001de,0xbffffb28,0x3f7ff2ac,0x3ffffb28,0xbf7ff668,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>20.0</freq>
     <q>0.7</q>
-    <boost>6.8</boost>
+    <boost>6.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003683968864079,-1.9984617462365752,0.9980958818154776,1.9984624336892385,-0.9984635912492222,</dec>
-    <hex>0x3f800c12,0xbfffcd98,0x3f7f8336,0x3fffcd9e,0xbf7f9b4f,</hex>
+    <dec>1.000351947729688,-1.9984484443175816,0.9980989856779491,1.9984491000045623,-0.9984502777206559,</dec>
+    <hex>0x3f800b88,0xbfffcd29,0x3f7f836a,0x3fffcd2e,0xbf7f9a70,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>20.5</freq>
-    <q>10.0</q>
-    <boost>-1.9</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.7</q>
+    <boost>6.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999852970430355,-1.9998485316039851,0.9998650346435178,1.9998485316039851,-0.9998503316865534,</dec>
-    <hex>0x3f7fff09,0xbffffb09,0x3f7ff728,0x3ffffb09,0xbf7ff631,</hex>
+    <dec>1.000351947729688,-1.9984484443175816,0.9980989856779491,1.9984491000045623,-0.9984502777206559,</dec>
+    <hex>0x3f800b88,0xbfffcd29,0x3f7f836a,0x3fffcd2e,0xbf7f9a70,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>28.0</freq>
-    <q>5.0</q>
-    <boost>3.0</boost>
+    <freq>20.7</freq>
+    <q>10.0</q>
+    <boost>-3.3</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000636008533415,-1.999688302402113,0.99962805943712,1.999688302402113,-0.9996916602904613,</dec>
-    <hex>0x3f800216,0xbffff5c9,0x3f7fe7a0,0x3ffff5c9,0xbf7febcb,</hex>
+    <dec>0.9999741106126804,-1.9998343535548713,0.9998620783066711,1.9998343535548713,-0.9998361889193513,</dec>
+    <hex>0x3f7ffe4e,0xbffffa92,0x3f7ff6f6,0x3ffffa92,0xbf7ff544,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>28.0</freq>
+    <q>5.0</q>
+    <boost>6.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0001291063617894,-1.9997372001520648,0.9996114517607331,1.9997372001520648,-0.9997405581225223,</dec>
+    <hex>0x3f80043b,0xbffff763,0x3f7fe689,0x3ffff763,0xbf7feeff,</hex>
   </filter>
   <filter name="PEQ_2_9" addr="8370">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>38.0</freq>
+    <q>10.0</q>
+    <boost>-3.9</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999437028327437,-1.9996825547002317,0.9997450365391078,1.9996825547002317,-0.9996887393718515,</dec>
+    <hex>0x3f7ffc4f,0xbffff599,0x3f7fef4a,0x3ffff599,0xbf7feb9a,</hex>
   </filter>
   <filter name="PEQ_2_10" addr="8375">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>The Fantastic 4: First Steps</beq_title><beq_alt_title /><beq_sortTitle>fantastic 4: first steps</beq_sortTitle><beq_year>2025</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Fantastic%204%20First%20Steps%20(2025)%20(%2B1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Fantastic%204%20First%20Steps%20(2025)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>Dialnorm Compensation: 4dB</beq_note><beq_warning /><beq_gain>1.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64216252#post-64216252</beq_avs><beq_theMovieDB>617126</beq_theMovieDB><beq_poster>/x26MtUlwtWD26d0G0FXcppxCJio.jpg</beq_poster><beq_runtime>115</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="878">Science Fiction</genre><genre id="12">Adventure</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>The Fantastic 4: First Steps</beq_title><beq_alt_title /><beq_sortTitle>fantastic 4: first steps</beq_sortTitle><beq_year>2025</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Fantastic%204%20First%20Steps%20(2025)%20(%2B1.5%20gain)%20DD%2B%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Fantastic%204%20First%20Steps%20(2025)%20(%2B1.5%20gain)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note>Dialnorm Compensation: 4dB</beq_note><beq_warning /><beq_gain>1.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.</beq_overview><beq_rating>PG-13</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1649?post_id=64216252#post-64216252</beq_avs><beq_theMovieDB>617126</beq_theMovieDB><beq_poster>/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg</beq_poster><beq_runtime>115</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="878">Science Fiction</genre><genre id="12">Adventure</genre></beq_genres></beq_metadata></setting>
