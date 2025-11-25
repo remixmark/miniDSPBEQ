@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>6.9</boost>
+    <freq>15.0</freq>
+    <q>0.9</q>
+    <boost>6.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003599620332422,-1.9985231738370515,0.9981662938724737,1.99852401854586,-0.9985254111969071,</dec>
-    <hex>0x3f800bcc,0xbfffcf9b,0x3f7f87d4,0x3fffcfa3,0xbf7f9f5d,</hex>
+    <dec>1.0002053623289047,-1.9990946716945612,0.9988907099310033,1.9990950406376058,-0.9990957033168628,</dec>
+    <hex>0x3f8006bb,0xbfffe256,0x3f7fb74d,0x3fffe259,0xbf7fc4bc,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>6.9</boost>
+    <freq>15.0</freq>
+    <q>0.9</q>
+    <boost>6.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003599620332422,-1.9985231738370515,0.9981662938724737,1.99852401854586,-0.9985254111969071,</dec>
-    <hex>0x3f800bcc,0xbfffcf9b,0x3f7f87d4,0x3fffcfa3,0xbf7f9f5d,</hex>
+    <dec>1.0002053623289047,-1.9990946716945612,0.9988907099310033,1.9990950406376058,-0.9990957033168628,</dec>
+    <hex>0x3f8006bb,0xbfffe256,0x3f7fb74d,0x3fffe259,0xbf7fc4bc,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>6.9</boost>
+    <freq>30.0</freq>
+    <q>0.7</q>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003599620332422,-1.9985231738370515,0.9981662938724737,1.99852401854586,-0.9985254111969071,</dec>
-    <hex>0x3f800bcc,0xbfffcf9b,0x3f7f87d4,0x3fffcfa3,0xbf7f9f5d,</hex>
+    <dec>1.0005938644742491,-1.9977249546581333,0.9971369524616912,1.9977266209546833,-0.9977291506393906,</dec>
+    <hex>0x3f801376,0xbfffb574,0x3f7f445e,0x3fffb582,0xbf7f6b2d,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>65.0</freq>
-    <q>0.8</q>
-    <boost>0.3</boost>
-    <type>PK</type>
+    <freq>30.0</freq>
+    <q>0.7</q>
+    <boost>7.3</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000916000566784,-1.994768834864249,0.994695286163841,1.994768834864249,-0.9947868862205194,</dec>
-    <hex>0x3f800300,0xbfff5496,0x3f7ea45a,0x3fff5496,0xbf7eaa5a,</hex>
+    <dec>1.0005938644742491,-1.9977249546581333,0.9971369524616912,1.9977266209546833,-0.9977291506393906,</dec>
+    <hex>0x3f801376,0xbfffb574,0x3f7f445e,0x3fffb582,0xbf7f6b2d,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>46.0</freq>
+    <q>1.9</q>
+    <boost>-1.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999088107986027,-1.9983138860839154,0.9984141319499173,1.9983138860839154,-0.9983229427485202,</dec>
+    <hex>0x3f7ffa06,0xbfffc8c0,0x3f7f9812,0x3fffc8c0,0xbf7f9218,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>6.9</boost>
+    <freq>15.0</freq>
+    <q>0.9</q>
+    <boost>6.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003599620332422,-1.9985231738370515,0.9981662938724737,1.99852401854586,-0.9985254111969071,</dec>
-    <hex>0x3f800bcc,0xbfffcf9b,0x3f7f87d4,0x3fffcfa3,0xbf7f9f5d,</hex>
+    <dec>1.0002053623289047,-1.9990946716945612,0.9988907099310033,1.9990950406376058,-0.9990957033168628,</dec>
+    <hex>0x3f8006bb,0xbfffe256,0x3f7fb74d,0x3fffe259,0xbf7fc4bc,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>6.9</boost>
+    <freq>15.0</freq>
+    <q>0.9</q>
+    <boost>6.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003599620332422,-1.9985231738370515,0.9981662938724737,1.99852401854586,-0.9985254111969071,</dec>
-    <hex>0x3f800bcc,0xbfffcf9b,0x3f7f87d4,0x3fffcfa3,0xbf7f9f5d,</hex>
+    <dec>1.0002053623289047,-1.9990946716945612,0.9988907099310033,1.9990950406376058,-0.9990957033168628,</dec>
+    <hex>0x3f8006bb,0xbfffe256,0x3f7fb74d,0x3fffe259,0xbf7fc4bc,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>22.0</freq>
-    <q>0.8</q>
-    <boost>6.9</boost>
+    <freq>30.0</freq>
+    <q>0.7</q>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003599620332422,-1.9985231738370515,0.9981662938724737,1.99852401854586,-0.9985254111969071,</dec>
-    <hex>0x3f800bcc,0xbfffcf9b,0x3f7f87d4,0x3fffcfa3,0xbf7f9f5d,</hex>
+    <dec>1.0005938644742491,-1.9977249546581333,0.9971369524616912,1.9977266209546833,-0.9977291506393906,</dec>
+    <hex>0x3f801376,0xbfffb574,0x3f7f445e,0x3fffb582,0xbf7f6b2d,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>65.0</freq>
-    <q>0.8</q>
-    <boost>0.3</boost>
-    <type>PK</type>
+    <freq>30.0</freq>
+    <q>0.7</q>
+    <boost>7.3</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000916000566784,-1.994768834864249,0.994695286163841,1.994768834864249,-0.9947868862205194,</dec>
-    <hex>0x3f800300,0xbfff5496,0x3f7ea45a,0x3fff5496,0xbf7eaa5a,</hex>
+    <dec>1.0005938644742491,-1.9977249546581333,0.9971369524616912,1.9977266209546833,-0.9977291506393906,</dec>
+    <hex>0x3f801376,0xbfffb574,0x3f7f445e,0x3fffb582,0xbf7f6b2d,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>46.0</freq>
+    <q>1.9</q>
+    <boost>-1.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999088107986027,-1.9983138860839154,0.9984141319499173,1.9983138860839154,-0.9983229427485202,</dec>
+    <hex>0x3f7ffa06,0xbfffc8c0,0x3f7f9812,0x3fffc8c0,0xbf7f9218,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Akira</beq_title><beq_alt_title>AKIRA</beq_alt_title><beq_sortTitle>akira</beq_sortTitle><beq_year>1988</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Akira%20(1988)%20(%2B2%20gain)%20Atmos%20JA%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Akira%20(1988)%20(%2B2%20gain)%20Atmos%20JA.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>2.0</beq_gain><beq_language>Japanese</beq_language><beq_source>Disc</beq_source><beq_overview>A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.</beq_overview><beq_rating>R</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1559?post_id=63838555#post-63838555</beq_avs><beq_theMovieDB>149</beq_theMovieDB><beq_poster>/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg</beq_poster><beq_runtime>124</beq_runtime><beq_collection /><beq_audioTypes><audioType>Atmos</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="878">Science Fiction</genre><genre id="28">Action</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Akira</beq_title><beq_alt_title>AKIRA</beq_alt_title><beq_sortTitle>akira</beq_sortTitle><beq_year>1988</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Akira%20(1988)%20(%2B2%20gain)%20Atmos%20JA%20Peak%20Spectrum.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Akira%20(1988)%20(%2B2%20gain)%20Atmos%20JA.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain>2.0</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.</beq_overview><beq_rating>R</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1559?post_id=63838555#post-63838555</beq_avs><beq_theMovieDB>149</beq_theMovieDB><beq_poster>/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg</beq_poster><beq_runtime>124</beq_runtime><beq_collection /><beq_audioTypes><audioType>Atmos</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="878">Science Fiction</genre><genre id="28">Action</genre></beq_genres></beq_metadata></setting>
