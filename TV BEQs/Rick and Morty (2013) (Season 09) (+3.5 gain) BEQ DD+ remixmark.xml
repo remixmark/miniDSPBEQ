@@ -820,58 +820,58 @@
     <hex>0x3f7ffbd6,0xbffff0d7,0x3f7fe5ef,0x3ffff0d7,0xbf7fe1c5,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_1_9" addr="8320">
     <freq>54.0</freq>
@@ -910,58 +910,58 @@
     <hex>0x3f7ffbd6,0xbffff0d7,0x3f7fe5ef,0x3ffff0d7,0xbf7fe1c5,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
-    <freq>20.0</freq>
+    <freq>20.1</freq>
     <q>0.7</q>
     <boost>7.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003848737845373,-1.9984749333172103,0.9980926361289542,1.9984756527409646,-0.9984767904897369,</dec>
-    <hex>0x3f800c9d,0xbfffce07,0x3f7f8300,0x3fffce0d,0xbf7f9c2d,</hex>
+    <dec>1.000386798487525,-1.9984673044902206,0.9980831084194444,1.9984680311234309,-0.998469180273759,</dec>
+    <hex>0x3f800cad,0xbfffcdc7,0x3f7f8260,0x3fffcdcd,0xbf7f9bad,</hex>
   </filter>
   <filter name="PEQ_2_9" addr="8370">
     <freq>54.0</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Rick and Morty</beq_title><beq_alt_title /><beq_sortTitle>rick and morty</beq_sortTitle><beq_year>2013</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20(2013)%20Season%209%20(%2B3.5%20gain)%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season>09E01-05</beq_season><beq_note /><beq_warning /><beq_gain>3.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.</beq_overview><beq_rating>TV-14</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1747?post_id=64666207#post-64666207</beq_avs><beq_theMovieDB>60625</beq_theMovieDB><beq_poster>/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="35">Comedy</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Rick and Morty</beq_title><beq_alt_title /><beq_sortTitle>rick and morty</beq_sortTitle><beq_year>2013</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Rick%20and%20Morty%20(2013)%20Season%209%20(%2B3.5%20gain)%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season>09E01-05</beq_season><beq_note /><beq_warning /><beq_gain>3.5</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.</beq_overview><beq_rating>TV-14</beq_rating><beq_author /><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1753?post_id=64693119#post-64693119</beq_avs><beq_theMovieDB>60625</beq_theMovieDB><beq_poster>/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="35">Comedy</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
