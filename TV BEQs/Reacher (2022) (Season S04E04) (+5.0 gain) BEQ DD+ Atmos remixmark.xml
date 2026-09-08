@@ -1422,7 +1422,7 @@
     <beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Reacher%20%282022%29%20%28Season%20S04E04%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum.jpg</beq_spectrumURL>
     <beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Reacher%20%282022%29%20%28Season%20S04E04%29%20%28%2B5.0%20gain%29%20DD%2B%20Atmos.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>S04E04</beq_season>
+    <beq_season>04E04</beq_season>
     <beq_note>Dialnorm Compensation: 5dB</beq_note>
     <beq_warning />
     <beq_gain>5.0</beq_gain>
