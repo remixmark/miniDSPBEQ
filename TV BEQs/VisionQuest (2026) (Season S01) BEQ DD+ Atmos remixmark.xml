@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.00</freq>
-    <q>0.80</q>
-    <boost>4.79</boost>
+    <freq>12.00</freq>
+    <q>0.73</q>
+    <boost>6.15</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001131695338856,-1.9992870488179928,0.9991744434573955,1.999287168393726,-0.9992874934155479,</dec>
-    <hex>0x3f8003b5,0xbfffe8a3,0x3f7fc9e5,0x3fffe8a4,0xbf7fd14e,</hex>
+    <dec>1.0001914655138793,-1.999098403458078,0.9989078164286508,1.9990986263267976,-0.999099059073811,</dec>
+    <hex>0x3f800646,0xbfffe275,0x3f7fb86c,0x3fffe277,0xbf7fc4f5,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.00</freq>
-    <q>0.80</q>
-    <boost>4.79</boost>
+    <freq>12.00</freq>
+    <q>0.73</q>
+    <boost>6.15</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001131695338856,-1.9992870488179928,0.9991744434573955,1.999287168393726,-0.9992874934155479,</dec>
-    <hex>0x3f8003b5,0xbfffe8a3,0x3f7fc9e5,0x3fffe8a4,0xbf7fd14e,</hex>
+    <dec>1.0001914655138793,-1.999098403458078,0.9989078164286508,1.9990986263267976,-0.999099059073811,</dec>
+    <hex>0x3f800646,0xbfffe275,0x3f7fb86c,0x3fffe277,0xbf7fc4f5,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>17.86</freq>
-    <q>1.30</q>
-    <boost>7.76</boost>
+    <freq>12.00</freq>
+    <q>0.73</q>
+    <boost>6.15</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000202749031121,-1.999279558997297,0.9990789450947886,1.999280189649531,-0.9992810634736756,</dec>
-    <hex>0x3f8006a5,0xbfffe865,0x3f7fc3a3,0x3fffe86a,0xbf7fd0e2,</hex>
+    <dec>1.0001914655138793,-1.999098403458078,0.9989078164286508,1.9990986263267976,-0.999099059073811,</dec>
+    <hex>0x3f800646,0xbfffe275,0x3f7fb86c,0x3fffe277,0xbf7fc4f5,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>31.27</freq>
-    <q>1.36</q>
-    <boost>1.49</boost>
+    <freq>20.41</freq>
+    <q>6.00</q>
+    <boost>0.51</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001291432831863,-1.9986155968742898,0.9984906393390002,1.9986155968742898,-0.9986197826221863,</dec>
-    <hex>0x3f80043b,0xbfffd2a3,0x3f7f9d15,0x3fffd2a3,0xbf7fa58c,</hex>
+    <dec>1.0000065364444355,-1.9997820418184904,0.99977728962638,1.9997820418184904,-0.9997838260708156,</dec>
+    <hex>0x3f800037,0xbffff8dc,0x3f7ff168,0x3ffff8dc,0xbf7ff1d5,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.51</freq>
-    <q>6.00</q>
-    <boost>-0.26</boost>
+    <freq>30.00</freq>
+    <q>2.79</q>
+    <boost>-0.25</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999966517424089,-1.9997711209927114,0.9997762710197328,1.9997711209927114,-0.9997729227621417,</dec>
-    <hex>0x3f7fffc8,0xbffff880,0x3f7ff156,0x3ffff880,0xbf7ff11e,</hex>
+    <dec>0.9999898753248655,-1.9992824383330314,0.9992964169453632,1.9992824383330314,-0.9992862922702289,</dec>
+    <hex>0x3f7fff56,0xbfffe87d,0x3f7fd1e4,0x3fffe87d,0xbf7fd13a,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>10.00</freq>
+    <q>0.73</q>
+    <boost>2.16</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000557788898183,-1.9991573925482855,0.9991020985385514,1.9991574459262826,-0.9991578240503721,</dec>
+    <hex>0x3f8001d4,0xbfffe464,0x3f7fc528,0x3fffe464,0xbf7fc8cf,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.00</freq>
-    <q>0.80</q>
-    <boost>4.79</boost>
+    <freq>12.00</freq>
+    <q>0.73</q>
+    <boost>6.15</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001131695338856,-1.9992870488179928,0.9991744434573955,1.999287168393726,-0.9992874934155479,</dec>
-    <hex>0x3f8003b5,0xbfffe8a3,0x3f7fc9e5,0x3fffe8a4,0xbf7fd14e,</hex>
+    <dec>1.0001914655138793,-1.999098403458078,0.9989078164286508,1.9990986263267976,-0.999099059073811,</dec>
+    <hex>0x3f800646,0xbfffe275,0x3f7fb86c,0x3fffe277,0xbf7fc4f5,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.00</freq>
-    <q>0.80</q>
-    <boost>4.79</boost>
+    <freq>12.00</freq>
+    <q>0.73</q>
+    <boost>6.15</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001131695338856,-1.9992870488179928,0.9991744434573955,1.999287168393726,-0.9992874934155479,</dec>
-    <hex>0x3f8003b5,0xbfffe8a3,0x3f7fc9e5,0x3fffe8a4,0xbf7fd14e,</hex>
+    <dec>1.0001914655138793,-1.999098403458078,0.9989078164286508,1.9990986263267976,-0.999099059073811,</dec>
+    <hex>0x3f800646,0xbfffe275,0x3f7fb86c,0x3fffe277,0xbf7fc4f5,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>17.86</freq>
-    <q>1.30</q>
-    <boost>7.76</boost>
+    <freq>12.00</freq>
+    <q>0.73</q>
+    <boost>6.15</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000202749031121,-1.999279558997297,0.9990789450947886,1.999280189649531,-0.9992810634736756,</dec>
-    <hex>0x3f8006a5,0xbfffe865,0x3f7fc3a3,0x3fffe86a,0xbf7fd0e2,</hex>
+    <dec>1.0001914655138793,-1.999098403458078,0.9989078164286508,1.9990986263267976,-0.999099059073811,</dec>
+    <hex>0x3f800646,0xbfffe275,0x3f7fb86c,0x3fffe277,0xbf7fc4f5,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>31.27</freq>
-    <q>1.36</q>
-    <boost>1.49</boost>
+    <freq>20.41</freq>
+    <q>6.00</q>
+    <boost>0.51</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001291432831863,-1.9986155968742898,0.9984906393390002,1.9986155968742898,-0.9986197826221863,</dec>
-    <hex>0x3f80043b,0xbfffd2a3,0x3f7f9d15,0x3fffd2a3,0xbf7fa58c,</hex>
+    <dec>1.0000065364444355,-1.9997820418184904,0.99977728962638,1.9997820418184904,-0.9997838260708156,</dec>
+    <hex>0x3f800037,0xbffff8dc,0x3f7ff168,0x3ffff8dc,0xbf7ff1d5,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.51</freq>
-    <q>6.00</q>
-    <boost>-0.26</boost>
+    <freq>30.00</freq>
+    <q>2.79</q>
+    <boost>-0.25</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999966517424089,-1.9997711209927114,0.9997762710197328,1.9997711209927114,-0.9997729227621417,</dec>
-    <hex>0x3f7fffc8,0xbffff880,0x3f7ff156,0x3ffff880,0xbf7ff11e,</hex>
+    <dec>0.9999898753248655,-1.9992824383330314,0.9992964169453632,1.9992824383330314,-0.9992862922702289,</dec>
+    <hex>0x3f7fff56,0xbfffe87d,0x3f7fd1e4,0x3fffe87d,0xbf7fd13a,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>10.00</freq>
+    <q>0.73</q>
+    <boost>2.16</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000557788898183,-1.9991573925482855,0.9991020985385514,1.9991574459262826,-0.9991578240503721,</dec>
+    <hex>0x3f8001d4,0xbfffe464,0x3f7fc528,0x3fffe464,0xbf7fc8cf,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1419,22 +1419,22 @@
     <beq_alt_title />
     <beq_sortTitle>visionquest</beq_sortTitle>
     <beq_year>2026</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E01-E07%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%20832a1ca1a98d%29.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01E01-E07%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%20832a1ca1a98d%29.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%207a58ffc60744%29.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/VisionQuest%20%282026%29%20%28Season%20S01%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%207a58ffc60744%29.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>01E01-E07</beq_season>
-    <beq_note>Dialnorm Compensation: 4 dB — S01E01–S01E07 AI Created</beq_note>
+    <beq_season>01</beq_season>
+    <beq_note>Dialnorm Compensation: 4 dB — S01E01–S01E08 AI Created</beq_note>
     <beq_warning />
-    <beq_gain>4.5</beq_gain>
+    <beq_gain>4.0</beq_gain>
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
     <beq_overview>With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.</beq_overview>
     <beq_rating>TV-14</beq_rating>
     <beq_author />
-    <beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1803#post-64987359</beq_avs>
+    <beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1805#post-65006441</beq_avs>
     <beq_theMovieDB>213375</beq_theMovieDB>
     <beq_poster>/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg</beq_poster>
-    <beq_runtime>361</beq_runtime>
+    <beq_runtime>430</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
@@ -1443,6 +1443,6 @@
       <genre id="10765">Sci-Fi &amp; Fantasy</genre>
       <genre id="18">Drama</genre>
     </beq_genres>
-    <beq_sourceIdentity>{"audio":{"audio_type":"DD+ Atmos","channel_layout":"5.1(side)","channels":6,"codec":"eac3","language":"English","profile":"dolby digital plus + dolby atmos","sample_rate":48000},"edition":"","edition_basis":"unknown","episode_codes":["S01E01","S01E02","S01E03","S01E04","S01E05","S01E06","S01E07"],"episodes":[{"analysis_flac_sha256":"51345f47f3b9af44f1210f661471704685a204a47ba1a018f2ed07dc12b8a7c5","episode_code":"S01E01","raw_replaygain_db":4.330100059509277,"raw_replaygain_source_file_sha256":"301b2a23d0ed24cec60ee11428755a9756187b6c0af52a70c0a7067173314e2a","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"301b2a23d0ed24cec60ee11428755a9756187b6c0af52a70c0a7067173314e2a"},{"analysis_flac_sha256":"631b179963261640898bf313f7f9ef6af1c8e820c0e5474da744aa572ebb75be","episode_code":"S01E02","raw_replaygain_db":3.8457300662994385,"raw_replaygain_source_file_sha256":"4e319e5e7431389170c9f46c76e0d903004a11e2f94e37186dcc5a811a83ad73","selected_audio_stream_index":1,"source_episode_mv_db":4.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"4e319e5e7431389170c9f46c76e0d903004a11e2f94e37186dcc5a811a83ad73"},{"analysis_flac_sha256":"0ef66ed7be42c8e533afd58b1fb77f61c8e09f6ef6b264bc19a262dd1ae31f4f","episode_code":"S01E03","raw_replaygain_db":4.65378999710083,"raw_replaygain_source_file_sha256":"99115c8ca34a162434c1b9a248904c830723036615b40b57779735f4d457ee78","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"99115c8ca34a162434c1b9a248904c830723036615b40b57779735f4d457ee78"},{"analysis_flac_sha256":"50059ba70f3530740a8fc355e7ed2accbad601b871fe115b48b6ab870d4b06e1","episode_code":"S01E04","raw_replaygain_db":4.250339984893799,"raw_replaygain_source_file_sha256":"02c218b20cd3600451119a64502306b392bbd9fa50bcda631f0721ab78deca58","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"02c218b20cd3600451119a64502306b392bbd9fa50bcda631f0721ab78deca58"},{"analysis_flac_sha256":"e79499822a2a84bfb47e8c3dc416ecd2fb2813225526f9ad800f83d58c26a02f","episode_code":"S01E05","raw_replaygain_db":5.078249931335449,"raw_replaygain_source_file_sha256":"63c538738544bd27088bbf5bd143c51bdc54a4200f20dfa352440c1f875eb1ea","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"63c538738544bd27088bbf5bd143c51bdc54a4200f20dfa352440c1f875eb1ea"},{"analysis_flac_sha256":"405d6e089dbb79cb1bf48b803971d780fcd18b8468feb755ebcf5c4ed1e6d41a","episode_code":"S01E06","raw_replaygain_db":3.5617001056671143,"raw_replaygain_source_file_sha256":"95d76337a9e5524e1b7b4c8f18949a491035a90329b86b8b3dccec4c752a56e0","selected_audio_stream_index":1,"source_episode_mv_db":3.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"95d76337a9e5524e1b7b4c8f18949a491035a90329b86b8b3dccec4c752a56e0"},{"analysis_flac_sha256":"7f1ccd209e19b86550a3b38c04a8d7538d0f909804a617621846f78caf0a851b","episode_code":"S01E07","raw_replaygain_db":4.583930015563965,"raw_replaygain_source_file_sha256":"b8a5419d6f56631bba44a047ae15763084e28058cef68dcca6f2b4a5af50cb49","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"b8a5419d6f56631bba44a047ae15763084e28058cef68dcca6f2b4a5af50cb49"}],"format":2,"resolution":"","scope":"season","season":"S01","season_mv_db":4.5,"series":{"title":"VisionQuest","tmdb_id":213375,"year":2026},"uncovered_episode_codes":["S01E08"]}</beq_sourceIdentity>
+    <beq_sourceIdentity>{"audio":{"audio_type":"DD+ Atmos","channel_layout":"5.1(side)","channels":6,"codec":"eac3","language":"English","profile":"dolby digital plus + dolby atmos","sample_rate":48000},"edition":"","edition_basis":"unknown","episode_codes":["S01E01","S01E02","S01E03","S01E04","S01E05","S01E06","S01E07","S01E08"],"episodes":[{"analysis_flac_sha256":"51345f47f3b9af44f1210f661471704685a204a47ba1a018f2ed07dc12b8a7c5","episode_code":"S01E01","raw_replaygain_db":4.330100059509277,"raw_replaygain_source_file_sha256":"301b2a23d0ed24cec60ee11428755a9756187b6c0af52a70c0a7067173314e2a","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"301b2a23d0ed24cec60ee11428755a9756187b6c0af52a70c0a7067173314e2a"},{"analysis_flac_sha256":"631b179963261640898bf313f7f9ef6af1c8e820c0e5474da744aa572ebb75be","episode_code":"S01E02","raw_replaygain_db":3.8457300662994385,"raw_replaygain_source_file_sha256":"4e319e5e7431389170c9f46c76e0d903004a11e2f94e37186dcc5a811a83ad73","selected_audio_stream_index":1,"source_episode_mv_db":4.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"4e319e5e7431389170c9f46c76e0d903004a11e2f94e37186dcc5a811a83ad73"},{"analysis_flac_sha256":"0ef66ed7be42c8e533afd58b1fb77f61c8e09f6ef6b264bc19a262dd1ae31f4f","episode_code":"S01E03","raw_replaygain_db":4.65378999710083,"raw_replaygain_source_file_sha256":"99115c8ca34a162434c1b9a248904c830723036615b40b57779735f4d457ee78","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"99115c8ca34a162434c1b9a248904c830723036615b40b57779735f4d457ee78"},{"analysis_flac_sha256":"50059ba70f3530740a8fc355e7ed2accbad601b871fe115b48b6ab870d4b06e1","episode_code":"S01E04","raw_replaygain_db":4.250339984893799,"raw_replaygain_source_file_sha256":"02c218b20cd3600451119a64502306b392bbd9fa50bcda631f0721ab78deca58","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"02c218b20cd3600451119a64502306b392bbd9fa50bcda631f0721ab78deca58"},{"analysis_flac_sha256":"e79499822a2a84bfb47e8c3dc416ecd2fb2813225526f9ad800f83d58c26a02f","episode_code":"S01E05","raw_replaygain_db":5.078249931335449,"raw_replaygain_source_file_sha256":"63c538738544bd27088bbf5bd143c51bdc54a4200f20dfa352440c1f875eb1ea","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"63c538738544bd27088bbf5bd143c51bdc54a4200f20dfa352440c1f875eb1ea"},{"analysis_flac_sha256":"405d6e089dbb79cb1bf48b803971d780fcd18b8468feb755ebcf5c4ed1e6d41a","episode_code":"S01E06","raw_replaygain_db":3.5617001056671143,"raw_replaygain_source_file_sha256":"95d76337a9e5524e1b7b4c8f18949a491035a90329b86b8b3dccec4c752a56e0","selected_audio_stream_index":1,"source_episode_mv_db":3.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"95d76337a9e5524e1b7b4c8f18949a491035a90329b86b8b3dccec4c752a56e0"},{"analysis_flac_sha256":"7f1ccd209e19b86550a3b38c04a8d7538d0f909804a617621846f78caf0a851b","episode_code":"S01E07","raw_replaygain_db":4.583930015563965,"raw_replaygain_source_file_sha256":"b8a5419d6f56631bba44a047ae15763084e28058cef68dcca6f2b4a5af50cb49","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"b8a5419d6f56631bba44a047ae15763084e28058cef68dcca6f2b4a5af50cb49"},{"analysis_flac_sha256":"15584939d1a4c04ee2ba21d1d61329f581049cc875258b225770e9f740f3f58b","episode_code":"S01E08","raw_replaygain_db":3.46409010887146,"raw_replaygain_source_file_sha256":"859faaee19bfde363540ac84118d73924dd9fb36e5407255065c03383e3b14d7","selected_audio_stream_index":1,"source_episode_mv_db":3.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"859faaee19bfde363540ac84118d73924dd9fb36e5407255065c03383e3b14d7"}],"format":2,"resolution":"","scope":"season","season":"S01","season_mv_db":4.0,"series":{"title":"VisionQuest","tmdb_id":213375,"year":2026},"uncovered_episode_codes":[]}</beq_sourceIdentity>
   </beq_metadata>
 </setting>
