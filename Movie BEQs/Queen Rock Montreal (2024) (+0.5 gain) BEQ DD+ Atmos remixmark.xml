@@ -1423,21 +1423,26 @@
     <beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/Queen%20Rock%20Montreal%20%282024%29%20%28%2B0.5%20gain%29%20Unknown%20Audio.jpg</beq_pvaURL>
     <beq_edition />
     <beq_season />
-    <beq_note>AI Created</beq_note>
+    <beq_note>Dialnorm Compensation: 13dB AI Created</beq_note>
     <beq_warning />
     <beq_gain>0.5</beq_gain>
     <beq_language>English</beq_language>
     <beq_source>Disc</beq_source>
-    <beq_overview />
+    <beq_overview>The iconic rock band Queen performs their best hits like "We Will Rock You, " "Somebody To Love, " and "Bohemian Rhapsody" in an unforgettable live concert.</beq_overview>
     <beq_rating />
     <beq_author />
     <beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1806#post-65013333</beq_avs>
     <beq_theMovieDB>1534626</beq_theMovieDB>
     <beq_poster>/8IZOtAvF9lxLh25FNeJZxw94oD1.jpg</beq_poster>
-    <beq_runtime />
+    <beq_runtime>95</beq_runtime>
     <beq_collection />
-    <beq_audioTypes />
-    <beq_genres />
+    <beq_audioTypes>
+      <audioType>DD+ Atmos</audioType>
+    </beq_audioTypes>
+    <beq_genres>
+      <genre id="10402">Music</genre>
+      <genre id="99">Documentary</genre>
+    </beq_genres>
     <beq_sourceIdentity>{"audio":{"audio_type":"DD+ Atmos","channel_layout":"5.1(side)","channels":6,"codec":"eac3","language":"English","profile":"dolby digital plus + dolby atmos","sample_rate":48000},"audio_sha256":"","edition":"2160p","edition_basis":"filename-resolution-cue","format":1,"raw_replaygain":{"db":0.3148800134658814,"provenance":"jriver-internal-mcws-exact-key-analysis"},"resolution":"2160p","selected_audio_stream_index":1,"source_file_sha256":"02520fc2a9b9821b12ccc5a91415820d9bc31c96a32f85979dbb2f5f475b26f4","source_mv":{"db":0.5,"independently_measured":true,"provenance":"jriver-internal-mcws-exact-key-analysis"}}</beq_sourceIdentity>
   </beq_metadata>
 </setting>
