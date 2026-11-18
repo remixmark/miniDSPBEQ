@@ -802,67 +802,67 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>19.03</freq>
-    <q>1.00</q>
-    <boost>3.52</boost>
+    <freq>16.78</freq>
+    <q>0.85</q>
+    <boost>6.06</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001264903651228,-1.9988735458866778,0.9987489541959357,1.9988738621994033,-0.9988751282483329,</dec>
-    <hex>0x3f800425,0xbfffdb17,0x3f7fae03,0x3fffdb19,0xbf7fb648,</hex>
+    <dec>1.0002265977470977,-1.9989140544232817,0.9986891653752511,1.9989144835313688,-0.9989153340142618,</dec>
+    <hex>0x3f80076d,0xbfffdc6a,0x3f7faa18,0x3fffdc6e,0xbf7fb8ea,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>19.03</freq>
-    <q>1.00</q>
-    <boost>3.52</boost>
+    <freq>16.78</freq>
+    <q>0.85</q>
+    <boost>6.06</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001264903651228,-1.9988735458866778,0.9987489541959357,1.9988738621994033,-0.9988751282483329,</dec>
-    <hex>0x3f800425,0xbfffdb17,0x3f7fae03,0x3fffdb19,0xbf7fb648,</hex>
+    <dec>1.0002265977470977,-1.9989140544232817,0.9986891653752511,1.9989144835313688,-0.9989153340142618,</dec>
+    <hex>0x3f80076d,0xbfffdc6a,0x3f7faa18,0x3fffdc6e,0xbf7fb8ea,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>19.03</freq>
-    <q>1.00</q>
-    <boost>3.52</boost>
+    <q>0.70</q>
+    <boost>6.50</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001264903651228,-1.9988735458866778,0.9987489541959357,1.9988738621994033,-0.9988751282483329,</dec>
-    <hex>0x3f800425,0xbfffdb17,0x3f7fae03,0x3fffdb19,0xbf7fb648,</hex>
+    <dec>1.0003348757252506,-1.9985237238748381,0.9981911017375633,1.9985243175248317,-0.9985253838128195,</dec>
+    <hex>0x3f800af9,0xbfffcfa0,0x3f7f8974,0x3fffcfa5,0xbf7f9f5c,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>19.03</freq>
-    <q>1.00</q>
-    <boost>3.52</boost>
-    <type>SL</type>
+    <freq>40.00</freq>
+    <q>0.90</q>
+    <boost>-0.12</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001264903651228,-1.9988735458866778,0.9987489541959357,1.9988738621994033,-0.9988751282483329,</dec>
-    <hex>0x3f800425,0xbfffdb17,0x3f7fae03,0x3fffdb19,0xbf7fb648,</hex>
+    <dec>0.9999799354025858,-1.9970683973577017,0.9970953058201617,1.9970683973577017,-0.9970752412227474,</dec>
+    <hex>0x3f7ffeaf,0xbfff9ff0,0x3f7f41a3,0x3fff9ff0,0xbf7f4053,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>19.03</freq>
-    <q>0.70</q>
-    <boost>4.18</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002146037303492,-1.998422039526455,0.998209407548554,1.9984224161150042,-0.9984236346903541,</dec>
-    <hex>0x3f800708,0xbfffcc4b,0x3f7f8aa7,0x3fffcc4e,0xbf7f98b1,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>35.00</freq>
-    <q>0.90</q>
-    <boost>1.12</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000164017602691,-1.9976112546061329,0.9974524782584384,1.9976112546061329,-0.9976164958611292,</dec>
-    <hex>0x3f800560,0xbfffb1ba,0x3f7f590c,0x3fffb1ba,0xbf7f63cb,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>22.46</freq>
-    <q>5.00</q>
-    <boost>-0.07</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.9999988154891458,-1.9997026952911081,0.999706040393157,1.9997026952911081,-0.9997048558823028,</dec>
-    <hex>0x3f7fffec,0xbffff642,0x3f7fecbc,0x3ffff642,0xbf7feca8,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -892,67 +892,67 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>19.03</freq>
-    <q>1.00</q>
-    <boost>3.52</boost>
+    <freq>16.78</freq>
+    <q>0.85</q>
+    <boost>6.06</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001264903651228,-1.9988735458866778,0.9987489541959357,1.9988738621994033,-0.9988751282483329,</dec>
-    <hex>0x3f800425,0xbfffdb17,0x3f7fae03,0x3fffdb19,0xbf7fb648,</hex>
+    <dec>1.0002265977470977,-1.9989140544232817,0.9986891653752511,1.9989144835313688,-0.9989153340142618,</dec>
+    <hex>0x3f80076d,0xbfffdc6a,0x3f7faa18,0x3fffdc6e,0xbf7fb8ea,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>19.03</freq>
-    <q>1.00</q>
-    <boost>3.52</boost>
+    <freq>16.78</freq>
+    <q>0.85</q>
+    <boost>6.06</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001264903651228,-1.9988735458866778,0.9987489541959357,1.9988738621994033,-0.9988751282483329,</dec>
-    <hex>0x3f800425,0xbfffdb17,0x3f7fae03,0x3fffdb19,0xbf7fb648,</hex>
+    <dec>1.0002265977470977,-1.9989140544232817,0.9986891653752511,1.9989144835313688,-0.9989153340142618,</dec>
+    <hex>0x3f80076d,0xbfffdc6a,0x3f7faa18,0x3fffdc6e,0xbf7fb8ea,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>19.03</freq>
-    <q>1.00</q>
-    <boost>3.52</boost>
+    <q>0.70</q>
+    <boost>6.50</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001264903651228,-1.9988735458866778,0.9987489541959357,1.9988738621994033,-0.9988751282483329,</dec>
-    <hex>0x3f800425,0xbfffdb17,0x3f7fae03,0x3fffdb19,0xbf7fb648,</hex>
+    <dec>1.0003348757252506,-1.9985237238748381,0.9981911017375633,1.9985243175248317,-0.9985253838128195,</dec>
+    <hex>0x3f800af9,0xbfffcfa0,0x3f7f8974,0x3fffcfa5,0xbf7f9f5c,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>19.03</freq>
-    <q>1.00</q>
-    <boost>3.52</boost>
-    <type>SL</type>
+    <freq>40.00</freq>
+    <q>0.90</q>
+    <boost>-0.12</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001264903651228,-1.9988735458866778,0.9987489541959357,1.9988738621994033,-0.9988751282483329,</dec>
-    <hex>0x3f800425,0xbfffdb17,0x3f7fae03,0x3fffdb19,0xbf7fb648,</hex>
+    <dec>0.9999799354025858,-1.9970683973577017,0.9970953058201617,1.9970683973577017,-0.9970752412227474,</dec>
+    <hex>0x3f7ffeaf,0xbfff9ff0,0x3f7f41a3,0x3fff9ff0,0xbf7f4053,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>19.03</freq>
-    <q>0.70</q>
-    <boost>4.18</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002146037303492,-1.998422039526455,0.998209407548554,1.9984224161150042,-0.9984236346903541,</dec>
-    <hex>0x3f800708,0xbfffcc4b,0x3f7f8aa7,0x3fffcc4e,0xbf7f98b1,</hex>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>35.00</freq>
-    <q>0.90</q>
-    <boost>1.12</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000164017602691,-1.9976112546061329,0.9974524782584384,1.9976112546061329,-0.9976164958611292,</dec>
-    <hex>0x3f800560,0xbfffb1ba,0x3f7f590c,0x3fffb1ba,0xbf7f63cb,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>22.46</freq>
-    <q>5.00</q>
-    <boost>-0.07</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.9999988154891458,-1.9997026952911081,0.999706040393157,1.9997026952911081,-0.9997048558823028,</dec>
-    <hex>0x3f7fffec,0xbffff642,0x3f7fecbc,0x3ffff642,0xbf7feca8,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1419,11 +1419,11 @@
     <beq_alt_title />
     <beq_sortTitle>the lord of the rings: the rings of power</beq_sortTitle>
     <beq_year>2022</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01-E04%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%20982622ea7b9a%29.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01-E04%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%20982622ea7b9a%29.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01-E06%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%207b0c39dbd58b%29.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20%282022%29%20%28Season%20S03E01-E06%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%207b0c39dbd58b%29.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>03E01-E04</beq_season>
-    <beq_note>Dialnorm Compensation: 4 dB — S03E02; 5 dB — S03E03–S03E04; 6 dB — S03E01 AI Created</beq_note>
+    <beq_season>03E01-E06</beq_season>
+    <beq_note>Dialnorm Compensation: 4 dB — S03E02, S03E05–S03E06; 5 dB — S03E03–S03E04; 6 dB — S03E01 AI Created</beq_note>
     <beq_warning />
     <beq_gain>2.0</beq_gain>
     <beq_language>English</beq_language>
@@ -1431,10 +1431,10 @@
     <beq_overview>Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.</beq_overview>
     <beq_rating>TV-14</beq_rating>
     <beq_author />
-    <beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1805#post-65008089</beq_avs>
+    <beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1806#post-65027655</beq_avs>
     <beq_theMovieDB>84773</beq_theMovieDB>
     <beq_poster>/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg</beq_poster>
-    <beq_runtime>258</beq_runtime>
+    <beq_runtime>377</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
@@ -1443,6 +1443,6 @@
       <genre id="10759">Action &amp; Adventure</genre>
       <genre id="10765">Sci-Fi &amp; Fantasy</genre>
     </beq_genres>
-    <beq_sourceIdentity>{"audio":{"audio_type":"DD+ Atmos","channel_layout":"5.1(side)","channels":6,"codec":"eac3","language":"English","profile":"dolby digital plus + dolby atmos","sample_rate":48000},"edition":"","edition_basis":"unknown","episode_codes":["S03E01","S03E02","S03E03","S03E04"],"episodes":[{"analysis_flac_sha256":"53cc8c5bdccceddd1dd276cb0f2995ce75b53a846b794a4ea0ba2284a95d3e3a","episode_code":"S03E01","raw_replaygain_db":1.2111200094223022,"raw_replaygain_source_file_sha256":"d04d328355825e90be2f21dee9495674ab7cd49fd767a3d4b4d6f04700efe7fd","selected_audio_stream_index":1,"source_episode_mv_db":1.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"d04d328355825e90be2f21dee9495674ab7cd49fd767a3d4b4d6f04700efe7fd"},{"analysis_flac_sha256":"115085b5a94014c198404b103cbef6ce1564a9668dc34f5c7182034c2470c1d7","episode_code":"S03E02","raw_replaygain_db":4.738379955291748,"raw_replaygain_source_file_sha256":"f7f449dc0fa1924c432b5cacae323b1c2ff0a66b7840acd181f4460dce31e743","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"f7f449dc0fa1924c432b5cacae323b1c2ff0a66b7840acd181f4460dce31e743"},{"analysis_flac_sha256":"d57aa5f931ae4bfcef044fd51e9544ff4aed6afdd04f671be669b81b2761bb24","episode_code":"S03E03","raw_replaygain_db":0.7191900014877319,"raw_replaygain_source_file_sha256":"eadea80abb33d66e369c7a904bb8e4c3c91f35a0fd877be9f63f4b9b367c03d4","selected_audio_stream_index":1,"source_episode_mv_db":0.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"eadea80abb33d66e369c7a904bb8e4c3c91f35a0fd877be9f63f4b9b367c03d4"},{"analysis_flac_sha256":"72314a151234cb40170ac0043058e2400869c49e0191b9b94327a4a2281d9d1a","episode_code":"S03E04","raw_replaygain_db":1.3330600261688232,"raw_replaygain_source_file_sha256":"798f3d016c820ac3e21b8162a228b8228105aaa52348c7361c93af226ea5830a","selected_audio_stream_index":1,"source_episode_mv_db":1.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"798f3d016c820ac3e21b8162a228b8228105aaa52348c7361c93af226ea5830a"}],"format":2,"resolution":"","scope":"season","season":"S03","season_mv_db":2.0,"series":{"title":"The Lord of the Rings: The Rings of Power","tmdb_id":84773,"year":2022},"uncovered_episode_codes":["S03E05","S03E06","S03E07","S03E08"]}</beq_sourceIdentity>
+    <beq_sourceIdentity>{"audio":{"audio_type":"DD+ Atmos","channel_layout":"5.1(side)","channels":6,"codec":"eac3","language":"English","profile":"dolby digital plus + dolby atmos","sample_rate":48000},"edition":"","edition_basis":"unknown","episode_codes":["S03E01","S03E02","S03E03","S03E04","S03E05","S03E06"],"episodes":[{"analysis_flac_sha256":"53cc8c5bdccceddd1dd276cb0f2995ce75b53a846b794a4ea0ba2284a95d3e3a","episode_code":"S03E01","raw_replaygain_db":1.2111200094223022,"raw_replaygain_source_file_sha256":"d04d328355825e90be2f21dee9495674ab7cd49fd767a3d4b4d6f04700efe7fd","selected_audio_stream_index":1,"source_episode_mv_db":1.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"d04d328355825e90be2f21dee9495674ab7cd49fd767a3d4b4d6f04700efe7fd"},{"analysis_flac_sha256":"115085b5a94014c198404b103cbef6ce1564a9668dc34f5c7182034c2470c1d7","episode_code":"S03E02","raw_replaygain_db":4.738379955291748,"raw_replaygain_source_file_sha256":"f7f449dc0fa1924c432b5cacae323b1c2ff0a66b7840acd181f4460dce31e743","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"f7f449dc0fa1924c432b5cacae323b1c2ff0a66b7840acd181f4460dce31e743"},{"analysis_flac_sha256":"d57aa5f931ae4bfcef044fd51e9544ff4aed6afdd04f671be669b81b2761bb24","episode_code":"S03E03","raw_replaygain_db":0.7191900014877319,"raw_replaygain_source_file_sha256":"eadea80abb33d66e369c7a904bb8e4c3c91f35a0fd877be9f63f4b9b367c03d4","selected_audio_stream_index":1,"source_episode_mv_db":0.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"eadea80abb33d66e369c7a904bb8e4c3c91f35a0fd877be9f63f4b9b367c03d4"},{"analysis_flac_sha256":"72314a151234cb40170ac0043058e2400869c49e0191b9b94327a4a2281d9d1a","episode_code":"S03E04","raw_replaygain_db":1.3330600261688232,"raw_replaygain_source_file_sha256":"798f3d016c820ac3e21b8162a228b8228105aaa52348c7361c93af226ea5830a","selected_audio_stream_index":1,"source_episode_mv_db":1.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"798f3d016c820ac3e21b8162a228b8228105aaa52348c7361c93af226ea5830a"},{"analysis_flac_sha256":"683f8f04abe3ccfa49f0bb249e07d3342569b573dc6f119f24d50928c7ae3891","episode_code":"S03E05","raw_replaygain_db":-0.1179099977016449,"raw_replaygain_source_file_sha256":"9d8682c5593bad442aff3a2e77460f7b448246c4d1147388d6afb325bf7f0d21","selected_audio_stream_index":1,"source_episode_mv_db":0.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"9d8682c5593bad442aff3a2e77460f7b448246c4d1147388d6afb325bf7f0d21"},{"analysis_flac_sha256":"958ce7ebc3ee5bc4022f6d1d80b5f7ca8a81db5f58c60ecef2c92ced3cd70b4d","episode_code":"S03E06","raw_replaygain_db":3.053380012512207,"raw_replaygain_source_file_sha256":"568bcdd20eb853ba36bdebf05677df0344ffcb5b6e81a8877d2510ec4b814d70","selected_audio_stream_index":1,"source_episode_mv_db":3.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"568bcdd20eb853ba36bdebf05677df0344ffcb5b6e81a8877d2510ec4b814d70"}],"format":2,"resolution":"","scope":"season","season":"S03","season_mv_db":2.0,"series":{"title":"The Lord of the Rings: The Rings of Power","tmdb_id":84773,"year":2022},"uncovered_episode_codes":["S03E07","S03E08"]}</beq_sourceIdentity>
   </beq_metadata>
 </setting>
