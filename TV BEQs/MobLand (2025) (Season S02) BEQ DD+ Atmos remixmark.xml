@@ -802,76 +802,76 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.72</freq>
-    <q>1.00</q>
-    <boost>6.07</boost>
+    <freq>10.00</freq>
+    <q>0.80</q>
+    <boost>7.66</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001232554793564,-1.9994104976043605,0.999287940082419,1.9994106730832875,-0.9994110200828482,</dec>
-    <hex>0x3f80040a,0xbfffecaf,0x3f7fd156,0x3fffecb0,0xbf7fd967,</hex>
+    <dec>1.0001818763372372,-1.9993434957546878,0.9991622849584163,1.9993436907582989,-0.9993439662920424,</dec>
+    <hex>0x3f8005f6,0xbfffea7d,0x3f7fc919,0x3fffea7e,0xbf7fd502,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.72</freq>
-    <q>1.00</q>
-    <boost>6.07</boost>
+    <freq>10.00</freq>
+    <q>0.80</q>
+    <boost>7.66</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001232554793564,-1.9994104976043605,0.999287940082419,1.9994106730832875,-0.9994110200828482,</dec>
-    <hex>0x3f80040a,0xbfffecaf,0x3f7fd156,0x3fffecb0,0xbf7fd967,</hex>
+    <dec>1.0001818763372372,-1.9993434957546878,0.9991622849584163,1.9993436907582989,-0.9993439662920424,</dec>
+    <hex>0x3f8005f6,0xbfffea7d,0x3f7fc919,0x3fffea7e,0xbf7fd502,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>10.72</freq>
-    <q>1.00</q>
-    <boost>6.07</boost>
+    <freq>10.00</freq>
+    <q>0.80</q>
+    <boost>7.66</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001232554793564,-1.9994104976043605,0.999287940082419,1.9994106730832875,-0.9994110200828482,</dec>
-    <hex>0x3f80040a,0xbfffecaf,0x3f7fd156,0x3fffecb0,0xbf7fd967,</hex>
+    <dec>1.0001818763372372,-1.9993434957546878,0.9991622849584163,1.9993436907582989,-0.9993439662920424,</dec>
+    <hex>0x3f8005f6,0xbfffea7d,0x3f7fc919,0x3fffea7e,0xbf7fd502,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>10.72</freq>
-    <q>1.00</q>
-    <boost>6.07</boost>
+    <freq>10.00</freq>
+    <q>0.80</q>
+    <boost>7.66</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001232554793564,-1.9994104976043605,0.999287940082419,1.9994106730832875,-0.9994110200828482,</dec>
-    <hex>0x3f80040a,0xbfffecaf,0x3f7fd156,0x3fffecb0,0xbf7fd967,</hex>
+    <dec>1.0001818763372372,-1.9993434957546878,0.9991622849584163,1.9993436907582989,-0.9993439662920424,</dec>
+    <hex>0x3f8005f6,0xbfffea7d,0x3f7fc919,0x3fffea7e,0xbf7fd502,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>27.08</freq>
+    <freq>26.95</freq>
     <q>1.30</q>
-    <boost>8.50</boost>
+    <boost>6.91</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003375048303318,-1.998929556324698,0.9985971728256304,1.9989311545964057,-0.9989330793842541,</dec>
-    <hex>0x3f800b0f,0xbfffdcec,0x3f7fa410,0x3fffdcfa,0xbf7fba14,</hex>
+    <dec>1.0002721197423523,-1.9988851462224317,0.9986176550132745,1.9988864159771418,-0.998888505000917,</dec>
+    <hex>0x3f8008eb,0xbfffdb78,0x3f7fa568,0x3fffdb83,0xbf7fb728,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>30.00</freq>
-    <q>0.59</q>
-    <boost>3.10</boost>
+    <q>0.72</q>
+    <boost>2.76</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0005962019651897,-1.9972159664910534,0.9966236144796052,1.9972159664910534,-0.997219816444795,</dec>
-    <hex>0x3f801389,0xbfffa4c6,0x3f7f22ba,0x3fffa4c6,0xbf7f49cc,</hex>
+    <dec>1.0004345928408687,-1.9976723840817634,0.9972416420744544,1.9976723840817634,-0.9976762349153233,</dec>
+    <hex>0x3f800e3e,0xbfffb3bb,0x3f7f4b3a,0x3fffb3bb,0xbf7f67b6,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>10.00</freq>
-    <q>1.00</q>
-    <boost>0.45</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000084801369984,-1.9993537042705145,0.9993456636012411,1.9993537153646577,-0.999354132644096,</dec>
-    <hex>0x3f800047,0xbfffead2,0x3f7fd51e,0x3fffead3,0xbf7fd5ac,</hex>
-  </filter>
-  <filter name="PEQ_1_8" addr="8315">
-    <freq>58.00</freq>
-    <q>2.00</q>
-    <boost>-0.29</boost>
+    <freq>50.00</freq>
+    <q>3.00</q>
+    <boost>-0.45</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.999968343669865,-1.998057471880214,0.9981035246083899,1.998057471880214,-0.9980718682782549,</dec>
-    <hex>0x3f7ffded,0xbfffc059,0x3f7f83b6,0x3fffc059,0xbf7f81a3,</hex>
+    <dec>0.9999717557288953,-1.9988704681124447,0.9989094155892783,1.9988704681124447,-0.9988811713181737,</dec>
+    <hex>0x3f7ffe26,0xbfffdafd,0x3f7fb887,0x3fffdafd,0xbf7fb6ad,</hex>
+  </filter>
+  <filter name="PEQ_1_8" addr="8315">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_9" addr="8320">
     <freq>1000</freq>
@@ -892,76 +892,76 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.72</freq>
-    <q>1.00</q>
-    <boost>6.07</boost>
+    <freq>10.00</freq>
+    <q>0.80</q>
+    <boost>7.66</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001232554793564,-1.9994104976043605,0.999287940082419,1.9994106730832875,-0.9994110200828482,</dec>
-    <hex>0x3f80040a,0xbfffecaf,0x3f7fd156,0x3fffecb0,0xbf7fd967,</hex>
+    <dec>1.0001818763372372,-1.9993434957546878,0.9991622849584163,1.9993436907582989,-0.9993439662920424,</dec>
+    <hex>0x3f8005f6,0xbfffea7d,0x3f7fc919,0x3fffea7e,0xbf7fd502,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.72</freq>
-    <q>1.00</q>
-    <boost>6.07</boost>
+    <freq>10.00</freq>
+    <q>0.80</q>
+    <boost>7.66</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001232554793564,-1.9994104976043605,0.999287940082419,1.9994106730832875,-0.9994110200828482,</dec>
-    <hex>0x3f80040a,0xbfffecaf,0x3f7fd156,0x3fffecb0,0xbf7fd967,</hex>
+    <dec>1.0001818763372372,-1.9993434957546878,0.9991622849584163,1.9993436907582989,-0.9993439662920424,</dec>
+    <hex>0x3f8005f6,0xbfffea7d,0x3f7fc919,0x3fffea7e,0xbf7fd502,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>10.72</freq>
-    <q>1.00</q>
-    <boost>6.07</boost>
+    <freq>10.00</freq>
+    <q>0.80</q>
+    <boost>7.66</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001232554793564,-1.9994104976043605,0.999287940082419,1.9994106730832875,-0.9994110200828482,</dec>
-    <hex>0x3f80040a,0xbfffecaf,0x3f7fd156,0x3fffecb0,0xbf7fd967,</hex>
+    <dec>1.0001818763372372,-1.9993434957546878,0.9991622849584163,1.9993436907582989,-0.9993439662920424,</dec>
+    <hex>0x3f8005f6,0xbfffea7d,0x3f7fc919,0x3fffea7e,0xbf7fd502,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>10.72</freq>
-    <q>1.00</q>
-    <boost>6.07</boost>
+    <freq>10.00</freq>
+    <q>0.80</q>
+    <boost>7.66</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001232554793564,-1.9994104976043605,0.999287940082419,1.9994106730832875,-0.9994110200828482,</dec>
-    <hex>0x3f80040a,0xbfffecaf,0x3f7fd156,0x3fffecb0,0xbf7fd967,</hex>
+    <dec>1.0001818763372372,-1.9993434957546878,0.9991622849584163,1.9993436907582989,-0.9993439662920424,</dec>
+    <hex>0x3f8005f6,0xbfffea7d,0x3f7fc919,0x3fffea7e,0xbf7fd502,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>27.08</freq>
+    <freq>26.95</freq>
     <q>1.30</q>
-    <boost>8.50</boost>
+    <boost>6.91</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003375048303318,-1.998929556324698,0.9985971728256304,1.9989311545964057,-0.9989330793842541,</dec>
-    <hex>0x3f800b0f,0xbfffdcec,0x3f7fa410,0x3fffdcfa,0xbf7fba14,</hex>
+    <dec>1.0002721197423523,-1.9988851462224317,0.9986176550132745,1.9988864159771418,-0.998888505000917,</dec>
+    <hex>0x3f8008eb,0xbfffdb78,0x3f7fa568,0x3fffdb83,0xbf7fb728,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>30.00</freq>
-    <q>0.59</q>
-    <boost>3.10</boost>
+    <q>0.72</q>
+    <boost>2.76</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0005962019651897,-1.9972159664910534,0.9966236144796052,1.9972159664910534,-0.997219816444795,</dec>
-    <hex>0x3f801389,0xbfffa4c6,0x3f7f22ba,0x3fffa4c6,0xbf7f49cc,</hex>
+    <dec>1.0004345928408687,-1.9976723840817634,0.9972416420744544,1.9976723840817634,-0.9976762349153233,</dec>
+    <hex>0x3f800e3e,0xbfffb3bb,0x3f7f4b3a,0x3fffb3bb,0xbf7f67b6,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>10.00</freq>
-    <q>1.00</q>
-    <boost>0.45</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0000084801369984,-1.9993537042705145,0.9993456636012411,1.9993537153646577,-0.999354132644096,</dec>
-    <hex>0x3f800047,0xbfffead2,0x3f7fd51e,0x3fffead3,0xbf7fd5ac,</hex>
-  </filter>
-  <filter name="PEQ_2_8" addr="8365">
-    <freq>58.00</freq>
-    <q>2.00</q>
-    <boost>-0.29</boost>
+    <freq>50.00</freq>
+    <q>3.00</q>
+    <boost>-0.45</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.999968343669865,-1.998057471880214,0.9981035246083899,1.998057471880214,-0.9980718682782549,</dec>
-    <hex>0x3f7ffded,0xbfffc059,0x3f7f83b6,0x3fffc059,0xbf7f81a3,</hex>
+    <dec>0.9999717557288953,-1.9988704681124447,0.9989094155892783,1.9988704681124447,-0.9988811713181737,</dec>
+    <hex>0x3f7ffe26,0xbfffdafd,0x3f7fb887,0x3fffdafd,0xbf7fb6ad,</hex>
+  </filter>
+  <filter name="PEQ_2_8" addr="8365">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_9" addr="8370">
     <freq>1000</freq>
@@ -1419,11 +1419,11 @@
     <beq_alt_title />
     <beq_sortTitle>mobland</beq_sortTitle>
     <beq_year>2025</beq_year>
-    <beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01-E09%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%20e3f91217ece6%29.jpg</beq_spectrumURL>
-    <beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02E01-E09%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%20e3f91217ece6%29.jpg</beq_pvaURL>
+    <beq_spectrumURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20Peak%20Spectrum%20%28Revision%208cd7412e4e1e%29.jpg</beq_spectrumURL>
+    <beq_pvaURL>https://raw.githubusercontent.com/remixmark/images/refs/heads/main/MobLand%20%282025%29%20%28Season%20S02%29%20%28%2B0.0%20gain%29%20DD%2B%20Atmos%20%28Revision%208cd7412e4e1e%29.jpg</beq_pvaURL>
     <beq_edition />
-    <beq_season>02E01-E09</beq_season>
-    <beq_note>Dialnorm Compensation: 2 dB — S02E02; 3 dB — S02E09; 4 dB — S02E03, S02E05; 5 dB — S02E01, S02E07–S02E08; 6 dB — S02E04, S02E06 AI Created</beq_note>
+    <beq_season>02</beq_season>
+    <beq_note>Dialnorm Compensation: 2 dB — S02E02; 3 dB — S02E09–S02E10; 4 dB — S02E03, S02E05; 5 dB — S02E01, S02E07–S02E08; 6 dB — S02E04, S02E06 AI Created</beq_note>
     <beq_warning />
     <beq_gain>5.0</beq_gain>
     <beq_language>English</beq_language>
@@ -1431,10 +1431,10 @@
     <beq_overview>Two mob families clash in a war that threatens to topple empires and lives.</beq_overview>
     <beq_rating>TV-MA</beq_rating>
     <beq_author />
-    <beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1806#post-65013523</beq_avs>
+    <beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/page-1808#post-65033467</beq_avs>
     <beq_theMovieDB>247718</beq_theMovieDB>
     <beq_poster>/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg</beq_poster>
-    <beq_runtime>411</beq_runtime>
+    <beq_runtime>456</beq_runtime>
     <beq_collection />
     <beq_audioTypes>
       <audioType>DD+ Atmos</audioType>
@@ -1443,6 +1443,6 @@
       <genre id="80">Crime</genre>
       <genre id="18">Drama</genre>
     </beq_genres>
-    <beq_sourceIdentity>{"audio":{"audio_type":"DD+ Atmos","channel_layout":"5.1(side)","channels":6,"codec":"eac3","language":"English","profile":"dolby digital plus + dolby atmos","sample_rate":48000},"edition":"","edition_basis":"unknown","episode_codes":["S02E01","S02E02","S02E03","S02E04","S02E05","S02E06","S02E07","S02E08","S02E09"],"episodes":[{"analysis_flac_sha256":"bb1e718bab5752fc6c5c8bca3ec35520f3a1fcd110837e0b48636e903d3aa7ec","episode_code":"S02E01","raw_replaygain_db":4.992660045623779,"raw_replaygain_source_file_sha256":"37009c6c138a4b06778c1ac0b13aede0ac4828f3228ea33b34b31b7f8bbe8e2d","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"37009c6c138a4b06778c1ac0b13aede0ac4828f3228ea33b34b31b7f8bbe8e2d"},{"analysis_flac_sha256":"1396999eb19544d0600c3b62e1c6a883bf2b5cfdc95b6fa92b758d7f7da661b4","episode_code":"S02E02","raw_replaygain_db":4.586160182952881,"raw_replaygain_source_file_sha256":"0e10c3c27cd1563fa3eb317cd8582431870ca208de051f3239064e92cca3d163","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"0e10c3c27cd1563fa3eb317cd8582431870ca208de051f3239064e92cca3d163"},{"analysis_flac_sha256":"5b5603c667255c77e33b2a0d4e79d7122dcf54215f324fa1295e3b91c870051f","episode_code":"S02E03","raw_replaygain_db":5.0873799324035645,"raw_replaygain_source_file_sha256":"6f382b7a56596ea6ac8bf17ee0fa3a3d0aad73ee6f1899943f9193c2cfd554ec","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"6f382b7a56596ea6ac8bf17ee0fa3a3d0aad73ee6f1899943f9193c2cfd554ec"},{"analysis_flac_sha256":"bf2ed753084d811f2817e55646951fd9eb113fb23db4e54ee01fefba59d48b54","episode_code":"S02E04","raw_replaygain_db":4.564430236816406,"raw_replaygain_source_file_sha256":"684e06dc4133ee19678e7bd79689ce409d77050aa1a6515ee4e31fd460015120","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"684e06dc4133ee19678e7bd79689ce409d77050aa1a6515ee4e31fd460015120"},{"analysis_flac_sha256":"f3a4c6a432b8f8bcc05731a6c3327138fef5a656bc62e385e06fd824e94833b1","episode_code":"S02E05","raw_replaygain_db":5.377920150756836,"raw_replaygain_source_file_sha256":"a8ec11c16c5741d5139f00ead3b4f2680140ce9a2632171b1445cd31c331c063","selected_audio_stream_index":1,"source_episode_mv_db":5.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"a8ec11c16c5741d5139f00ead3b4f2680140ce9a2632171b1445cd31c331c063"},{"analysis_flac_sha256":"7864b5ff51443f83c077b3a427bd2696f63739a213820beaf5e4f32b7b36eb0b","episode_code":"S02E06","raw_replaygain_db":5.164140224456787,"raw_replaygain_source_file_sha256":"a4cd248a15a13fa8a285ea4bcc76e17fd7da994039820f91ee8b0483ed2dc312","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"a4cd248a15a13fa8a285ea4bcc76e17fd7da994039820f91ee8b0483ed2dc312"},{"analysis_flac_sha256":"e8a733ec1448be7226bbcf167089fc6bf0e0ebf4b7a0713b4b3b6648e2fdf691","episode_code":"S02E07","raw_replaygain_db":4.915430068969727,"raw_replaygain_source_file_sha256":"ef130de84dfd4c62dee4ffc1d5a1bd4ac089935fb8401b9eb6a647d9af7cbdd4","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"ef130de84dfd4c62dee4ffc1d5a1bd4ac089935fb8401b9eb6a647d9af7cbdd4"},{"analysis_flac_sha256":"6970340149bcc2f2829aa3f4d949b6a3529be4c58c989232c163696496c3eecb","episode_code":"S02E08","raw_replaygain_db":5.023509979248047,"raw_replaygain_source_file_sha256":"38cb297e55d44be74f851a96c60c387623452ad8afd742f5eb97dcfd796fcdcd","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"38cb297e55d44be74f851a96c60c387623452ad8afd742f5eb97dcfd796fcdcd"},{"analysis_flac_sha256":"c4fd007521162fa626babf2c1e52659289c80a0ecfb99e2de7c0a84c85a4b91f","episode_code":"S02E09","raw_replaygain_db":4.557829856872559,"raw_replaygain_source_file_sha256":"073df52f8d37c47e1563e0605f25d5bbab7807fc904778ccc45818c737ab2b03","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"073df52f8d37c47e1563e0605f25d5bbab7807fc904778ccc45818c737ab2b03"}],"format":2,"resolution":"","scope":"season","season":"S02","season_mv_db":5.0,"series":{"title":"MobLand","tmdb_id":247718,"year":2025},"uncovered_episode_codes":["S02E10"]}</beq_sourceIdentity>
+    <beq_sourceIdentity>{"audio":{"audio_type":"DD+ Atmos","channel_layout":"5.1(side)","channels":6,"codec":"eac3","language":"English","profile":"dolby digital plus + dolby atmos","sample_rate":48000},"edition":"","edition_basis":"unknown","episode_codes":["S02E01","S02E02","S02E03","S02E04","S02E05","S02E06","S02E07","S02E08","S02E09","S02E10"],"episodes":[{"analysis_flac_sha256":"bb1e718bab5752fc6c5c8bca3ec35520f3a1fcd110837e0b48636e903d3aa7ec","episode_code":"S02E01","raw_replaygain_db":4.992660045623779,"raw_replaygain_source_file_sha256":"37009c6c138a4b06778c1ac0b13aede0ac4828f3228ea33b34b31b7f8bbe8e2d","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"37009c6c138a4b06778c1ac0b13aede0ac4828f3228ea33b34b31b7f8bbe8e2d"},{"analysis_flac_sha256":"1396999eb19544d0600c3b62e1c6a883bf2b5cfdc95b6fa92b758d7f7da661b4","episode_code":"S02E02","raw_replaygain_db":4.586160182952881,"raw_replaygain_source_file_sha256":"0e10c3c27cd1563fa3eb317cd8582431870ca208de051f3239064e92cca3d163","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"0e10c3c27cd1563fa3eb317cd8582431870ca208de051f3239064e92cca3d163"},{"analysis_flac_sha256":"5b5603c667255c77e33b2a0d4e79d7122dcf54215f324fa1295e3b91c870051f","episode_code":"S02E03","raw_replaygain_db":5.0873799324035645,"raw_replaygain_source_file_sha256":"6f382b7a56596ea6ac8bf17ee0fa3a3d0aad73ee6f1899943f9193c2cfd554ec","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"6f382b7a56596ea6ac8bf17ee0fa3a3d0aad73ee6f1899943f9193c2cfd554ec"},{"analysis_flac_sha256":"bf2ed753084d811f2817e55646951fd9eb113fb23db4e54ee01fefba59d48b54","episode_code":"S02E04","raw_replaygain_db":4.564430236816406,"raw_replaygain_source_file_sha256":"684e06dc4133ee19678e7bd79689ce409d77050aa1a6515ee4e31fd460015120","selected_audio_stream_index":1,"source_episode_mv_db":4.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"684e06dc4133ee19678e7bd79689ce409d77050aa1a6515ee4e31fd460015120"},{"analysis_flac_sha256":"f3a4c6a432b8f8bcc05731a6c3327138fef5a656bc62e385e06fd824e94833b1","episode_code":"S02E05","raw_replaygain_db":5.377920150756836,"raw_replaygain_source_file_sha256":"a8ec11c16c5741d5139f00ead3b4f2680140ce9a2632171b1445cd31c331c063","selected_audio_stream_index":1,"source_episode_mv_db":5.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"a8ec11c16c5741d5139f00ead3b4f2680140ce9a2632171b1445cd31c331c063"},{"analysis_flac_sha256":"7864b5ff51443f83c077b3a427bd2696f63739a213820beaf5e4f32b7b36eb0b","episode_code":"S02E06","raw_replaygain_db":5.164140224456787,"raw_replaygain_source_file_sha256":"a4cd248a15a13fa8a285ea4bcc76e17fd7da994039820f91ee8b0483ed2dc312","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"a4cd248a15a13fa8a285ea4bcc76e17fd7da994039820f91ee8b0483ed2dc312"},{"analysis_flac_sha256":"e8a733ec1448be7226bbcf167089fc6bf0e0ebf4b7a0713b4b3b6648e2fdf691","episode_code":"S02E07","raw_replaygain_db":4.915430068969727,"raw_replaygain_source_file_sha256":"ef130de84dfd4c62dee4ffc1d5a1bd4ac089935fb8401b9eb6a647d9af7cbdd4","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"ef130de84dfd4c62dee4ffc1d5a1bd4ac089935fb8401b9eb6a647d9af7cbdd4"},{"analysis_flac_sha256":"6970340149bcc2f2829aa3f4d949b6a3529be4c58c989232c163696496c3eecb","episode_code":"S02E08","raw_replaygain_db":5.023509979248047,"raw_replaygain_source_file_sha256":"38cb297e55d44be74f851a96c60c387623452ad8afd742f5eb97dcfd796fcdcd","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"38cb297e55d44be74f851a96c60c387623452ad8afd742f5eb97dcfd796fcdcd"},{"analysis_flac_sha256":"8cdb602e510132b5a140bf145c4e80699c0cb4eb6b174e9da2eab149103e5d35","episode_code":"S02E09","raw_replaygain_db":3.5366299152374268,"raw_replaygain_source_file_sha256":"9e77854eed31bdc1a065e305026620d5207ec0ded44a2147afb2a9ca576e79f9","selected_audio_stream_index":1,"source_episode_mv_db":3.5,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"9e77854eed31bdc1a065e305026620d5207ec0ded44a2147afb2a9ca576e79f9"},{"analysis_flac_sha256":"2d755e60387c3e84649272d7cdffc4021e7524ef2bf96b8cca40b59c77620cf8","episode_code":"S02E10","raw_replaygain_db":5.027299880981445,"raw_replaygain_source_file_sha256":"ba411e218f8f9c58bf70a8f73bcad2f3218a26f228a5c45a72774df1e95c1ed0","selected_audio_stream_index":1,"source_episode_mv_db":5.0,"source_episode_mv_provenance":"episode-review-manifest","source_file_sha256":"ba411e218f8f9c58bf70a8f73bcad2f3218a26f228a5c45a72774df1e95c1ed0"}],"format":2,"resolution":"","scope":"season","season":"S02","season_mv_db":5.0,"series":{"title":"MobLand","tmdb_id":247718,"year":2025},"uncovered_episode_codes":[]}</beq_sourceIdentity>
   </beq_metadata>
 </setting>
